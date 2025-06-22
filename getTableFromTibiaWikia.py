@@ -21,5 +21,7 @@ for row in soup.find_all('tr'):
         entry['link'] = None
     data.append(entry)
 
+
+
 with open('table.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)

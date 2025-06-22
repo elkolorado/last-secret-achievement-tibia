@@ -8,6 +8,8 @@ import re
 
 import concurrent.futures
 
+#https://tibia.fandom.com/api.php?action=query&format=json&titles={link}&prop=revisions&rvprop=content&rvslots=main&origin=*
+
 # Load table.json
 with open('table.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
