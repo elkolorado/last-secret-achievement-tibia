@@ -1,0 +1,3140 @@
+Player: hi
+A Bearded Woman: GET ME OUT OF HERE! NOW!
+
+Player: out / job
+A Bearded Woman: I am a great and famous actor! Not a princess, at all. I was only PRETENDING to be a princess. But try explaining that to those stupid pirates.
+
+Player: rot
+A Bearded Woman: YOU .. YOU .. You are as good as dead! I will get you! Do you hear me? I will have your head! On a platter!
+
+Player: festering
+A Bloodshade: The leeching corruption is finally stopped and the realm can heal. Perhaps, in a few millennia, the mighty blood god might recover and rise again in new power and sanguine glory! HAHAHAHA!!
+
+Player: Eeny, meeny, miny, moe - ribbit, ribbit head to toe!
+A Confused Frog: ........ ...
+
+A Confused Frog: Ri..... ...
+
+A Confused Frog: Ritual didn't work. RIBBIT?! I can speak the human language again! Ribbit! Well, at least sometimes it seems. Ribbit. And who the heck are you??
+
+Player: Demon
+A Confused Frog: That demon is called ribbit. Erm, no, I mean Samael. He is one REALLY annoyed demon overlord, but we get along okay. Not sure if I'd let him out of there though. Ribbit.
+
+Player: work
+A Dead Bureaucrat: I'm one of the lucky ones that have to work a SMALL eternity for Pumin.*SIGH*
+
+Player: job
+A Dead Bureaucrat: I'm a bureaucrat who does not even find the time to eat. Just look how bony I am! *SIGH*
+
+Player: bye
+A Majestic Warwolf: YOOOOUHHOOOUU!
+
+Player: job
+A Prisoner: Job? JOB? Hey man - I am in prison! But you know - once upon a time - I was a powerful mage! A mage ... come to think of it .., what is that - a mage?
+
+Player: key
+A Prisoner: Sure I have the key! Hehehe! Perhaps I will give it to you. IF you can solve my riddle.
+
+Player: SOLOSARASATIQUARIUM (Wrath of the Emperor - Mission 09: The Sleeping Dragon)
+A Sleeping Dragon: Dragon dreams are golden. ...
+
+A Sleeping Dragon: A broad darkness surrounds you as if a heavy curtain is closing before your eyes. After what seems like minutes of floating through emptiness, you get the feeling as if a hole opens in the dark before you. ...
+
+A Sleeping Dragon: The hole grows larger, you cannot close your eyes. An unimaginable black. Deeper and darker than any nothingness you could possibly imagine drags you into it. ...
+
+A Sleeping Dragon: You feel as if you cannot breathe anymore. The very second you let loose of your consciousness, you sense all heaviness around you lifted. ...
+
+A Sleeping Dragon: You dive into an ocean of emerald light. Feeling like born anew the colour around you is almost overwhelming. Countless objects of all shapes and sizes are dashing past you. Racing against each other, millions are clashing in the distance. ...
+
+A Sleeping Dragon: The loudness of the gargantuan spectacle around you bursts your hearing, yet you absorb all the sounds around you. ...
+
+A Sleeping Dragon: As several large obstacles move aside directly in front of you, an intense bright centre leaps into your view. Though you cannot perceive how fast you are, your pace seems too slow. ...
+
+A Sleeping Dragon: Ever decelerating, you ultimately approach a middle in this chaos of tones of green. ...
+
+A Sleeping Dragon: As you come closer to it, yellowish shades of orange embrace you, softer shapes emerge and you almost forget the mayhem before. In warm comfort you see what lies in the heart of it all. ...
+
+A Sleeping Dragon: A majestic dragon in his sleep is surrounded by what seems the warmth and energy of a thousand suns. The tranquillity of its sight makes you smile gently. ...
+
+A Sleeping Dragon: You feel a perfect mixture of joy, compassion and sudden peacefulness. Bright xanthous impressions of topaz, orange and white welcome you at the final halt of your journey. ...
+
+A Sleeping Dragon: Dragon dreams are golden. ...
+
+A Sleeping Dragon: You find yourself inside the dragon's dream. You can look around or go into a specific direction. You can also take or use an object. Enter help to display this information at any time.
+
+Player: yes
+A Sleeping Dragon: SAETHELON TORILUN GARNUM. ...
+
+A Sleeping Dragon: SLEEP. ...
+
+A Sleeping Dragon: GAIN. ...
+
+A Sleeping Dragon: RISE. ...
+
+A Sleeping Dragon: The transfer was successful. ...
+
+A Sleeping Dragon: You are now prepared to enter the realm of the evildoer. I am grateful for your help, wayfarer. Should you seek my council, use this charm I cede to you. For my spirit will guide you wherever you are. May you enjoy a sheltered future, you shall prevail. (spiritual charm)
+
+Player: name
+A Strange Chalice: 'Alice the chalice'... Hmpf, of course I won't TELL you my name, I am UNDERCOVER! Now be quiet or they will hear you.
+
+Player: hello
+A Taffy Bunny: *Surprisingly, this time the bunny doesn't just sniff, but talks to you.* You brought me a LOT of marzipan carrots, friend. Really nice of you. ...
+
+A Taffy Bunny: Let me tell you a little secret in return: I know where a treasure is hidden. If you dig around the northern headlands of the island, you'll find it. Right up north, right by the water, yes?
+
+Player: name
+A Wrinkled Bonelord: I'm 486486 and NOT 'Blinky' as some people called me ... before they died. So don't ... confuse your numbers, as my kind says.
+
+Player: bye
+Abran Ironeye: You are dismissed.
+
+Abran Ironeye: HEY! I DID NOT DISMISS YOU!
+
+Player: king
+Admiral Wyrmslicer: LONG LIVE THE KING!
+
+Player: hi
+Ahmet: Ohh, milord showing up again! Let me tell you something! YOU ARE FIRED!
+
+Player: yes
+Ahmet: Wonderful!! Okay listen, you have to watch my shop while I'm inside. Don't walk away, no eating during work and if you got beaten up, it is your own problem! ...
+
+Ahmet: You will earn 200 gold coins a month BUT only if you fulfil your duties to my satisfaction. Now do your work and let me do mine!
+
+Player: suspicious
+Ahmet: I am starting to believe that YOU are the suspicious one here!
+
+Player:
+Ahmet: Where are you heading?? Come back NOW you lazybones!!! You won't get a single gold coin if you leave!
+
+Player: mine (with quest activated)
+Ajax: YOURS? WHAT IS YOURS! NOTHING IS YOURS! IS MINE! GO AWAY, YES?!
+
+Player: no
+Ajax: YOU STUPID! STUBBORN! I KILL YOU! WILL LEAVE NOW?!
+
+Player: no
+Ajax: ARRRRRRRRRR! YOU ME DRIVE MAD! HOW I MAKE YOU GO??
+
+Player: no
+Ajax: I GIVE YOU NO!
+
+Player: Yes (depois de Pick / Small Axe - sem um Small Axe
+Al Dee: Sorry, I am looking for a SMALL axe.
+
+Player: potion / lost
+Alaistar: You lost the potion? That is terrible! I only have one small portion left, I don't know if that will suffice for any reaction! Still, better that than nothing. Take it. But BE CAREFUL.
+
+Player: king / Tibianus
+Aldo: One day I will sell the king a pair of shoes made by me and will get out of that stinky hole I live in and my family will never find me. HE, HE!
+
+Player: soul nets
+Alternative Rock: The bad spirits are coming down to the creatures of the deep to curse their spawn. Not that I am very fond of those Deepling things - but CURSED Deepling things? No thanks. ...
+
+Alternative Rock: It is possible to catch a demon before it materialises. If you use one of these nets to capture an evil spirit, you will be able to prevent that the Deepling spawn is being cursed.
+
+Player: hi
+Alwin: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Alwin: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Alwin: LONG LIVE THE KING!
+
+Player: VBOX
+An Idol: J-T B^C J^BXT°
+
+Player: Hi
+An Old Dragonlord: LEAVE THE DRAGONS' CEMETERY AT ONCE!
+
+Player: Hi (with white mushrooms)
+An Old Dragonlord: AHHH MUSHRRROOOMSSS! NOW MY PAIN WILL BE EASSSED FOR A WHILE! TAKE THISS AND LEAVE THE DRAGONSSS' CEMETERY AT ONCE!
+
+Player: Fields of Glory
+Aneus: Ok, sit down and listen. Back in the early days, one of the ancestors of our king Tibianus III wanted to build the best city in whole Tibia.
+
+Player: hi (o NPC responde aleatoriamente de diferentes maneiras)
+Arkulius: ...if my calculations are correct, I will be able to revive... Arrgghh!! What do you want? ...if the expected constant is higher than... Hmmm, who are you?? What do you want? ...then I could transform a spell to bend... How can anyone expect me to work under these conditions?? What do you want?
+
+Player: want / job
+Arkulius: How dare you asking me this?!? I'm Arkulius - Master of Elements, the HEADMASTER of this academy!!
+
+Player: sphere
+Arkulius: There are four spheres we know of: ice, fire, earth and energy. ....<mumbles> Hmmm, should I ask or not?....The heck with it! Now that you know about the spheres ...
+
+Arkulius: I found a way to visit them. It's VERY dangerous and there is a decent chance that you won't come back BUT if you succeed you'll write history!!! Ask me about that mission if you're interested.
+
+Player: hi
+Arnold: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Arnold: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Arnold: LONG LIVE THE KING!
+
+Player: monster / dungeon
+Aruda: UH! What a terrifying topic. Please let us speak about something more pleasant, I'm a weak and small woman after all.
+
+Player: job
+Atui: I am NOT a Corym, but a human such as you! ...
+
+Atui: At least I was, before this madman Marrow turned me into this monster!
+
+Player: devastate
+Atui: I have no clue what could stop the plant monster from the outside, BUT we can kill Marrow here and now. ...
+
+Atui: As soon as they stop harming the plant-thing it will probably get dormant again. So all we have to do, is to fight our way down to Marrow's lair deep down in the plant's stalk.
+
+Player: job
+Baa'Leal: I'm commander-in-chief of the armed forces of the UDLA, all branches of service. ...
+
+Baa'Leal: Hence I'm responsible for all operations in the enemy's territory.
+
+Player: UDLA
+Baa'Leal: Yes. The United Djinn Liberation Army. ...
+
+Baa'Leal: The title has been given to our valiant armed forces in order to stress both the revolutionary focus of our agenda and the universal nature of our political approach. ...
+
+Baa'Leal: Don't ask me what that means. Wasn't my idea.
+
+Player: baa'leal
+Baa'Leal: That is GENERAL Baa'leal for you, human.
+
+Player: king
+Baa'Leal: The UDLA does not serve a king because there isn't any. Of course, that is bound to change.
+
+Player: isle
+Balduin The Baker: Now once we've got enough ingredients to finish the bridge, we have to face another challenge. And that is the cake keep itself! Is is an almost impenetrable though edible fortress made completely out of cake! ...
+
+Balduin The Baker: The thing is, to reach his secrets we will have to eat the whole cake! This is easier said than done though as the cake regenerates itself periodically with the help of magic. ...
+
+Balduin The Baker: So we only have a few minutes to eat a whole layer of the cake, only then it will not regenerate but the upper layer will come down. So layer for layer we have to eat that cake. ...
+
+Balduin The Baker: It will take an army of hungry Tibians to eat them all in time. Even then things have to be somewhat coordinated. ...
+
+Balduin The Baker: People have to be brought here, wait for their turn to eat and of course stay hungry. Eating another layer might prove futile if you do not wait a few minutes for the hunger to return. ...
+
+Balduin The Baker: The good thing is that all people, big and small, can participate. ...
+
+Balduin The Baker: I guess the isle had a nice and flashy name in the past. But you know how people are. Someone started to call it the Cake Isle and I guess it is only a matter of time until this is shortened to CI. ...
+
+Balduin The Baker: People don't take their time anymore, not even for enjoyment.
+
+Player: hi
+Bambi Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: knights of noodles
+Bambi Bonecrusher: WOOF! WOOF! Go away with these puny king's puppies.
+
+Player: bye
+Bambi Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: hi
+Barbara: MIND YOUR MANNERS COMMONER! Address the queen with her title!
+
+Player: hail queen / hi queen / salutations queen
+Barbara: HAIL TO THE QUEEN!
+
+Barbara: Take this!
+
+Player: bye
+Barbara: LONG LIVE THE QUEEN! You may leave now!
+
+Player: hi / hello
+Baxter: LONG LIVE KING TIBIANUS!
+
+Player: hi (Kingsday)
+Baxter: LONG LIVE THE KING! Our wise and generous leader allows all commoners to celebrate Kingsday in the castle. What honour!
+
+Player: king / leader
+Baxter: King Tibianus III is our wise and just leader!
+
+Player: bye / farewell
+Baxter: LONG LIVE THE KING!
+
+Player: army / general / ferumbras
+Benjamin: TO THE ARMS! MAN THE WALLS! FERUMBRAS IS NEAR!
+
+Player: lugri
+Benjamin: NO! NO! NO! GO AWAY!.
+
+Player: lynda
+Benjamin: She's SO pretty!
+
+Player: isle
+Benny The Baker: Now once we've got enough ingredients to finish the bridge, we have to face another challenge. And that is the cake keep itself! Is is an almost impenetrable though edible fortress made completely out of cake! ...
+
+Benny The Baker: The thing is, to reach his secrets we will have to eat the whole cake! This is easier said than done though as the cake regenerates itself periodically with the help of magic. ...
+
+Benny The Baker: So we only have a few minutes to eat a whole layer of the cake, only then it will not regenerate but the upper layer will come down. So layer for layer we have to eat that cake. ...
+
+Benny The Baker: It will take an army of hungry Tibians to eat them all in time. Even then things have to be somewhat coordinated. ...
+
+Benny The Baker: People have to be brought here, wait for their turn to eat and of course stay hungry. Eating another layer might prove futile if you do not wait a few minutes for the hunger to return. ...
+
+Benny The Baker: The good thing is that all people, big and small, can participate. ...
+
+Benny The Baker: I guess the isle had a nice and flashy name in the past. But you know how people are. Someone started to call it the Cake Isle and I guess it is only a matter of time until this is shortened to CI. ...
+
+Benny The Baker: People don't take their time anymore, not even for enjoyment.
+
+Player: ferumbras
+Bertha: Well, HE would only be needed to make things worse over here.
+
+Player: isle
+Biff The Baker: Now once we've got enough ingredients to finish the bridge, we have to face another challenge. And that is the cake keep itself! Is is an almost impenetrable though edible fortress made completely out of cake! ...
+
+Biff The Baker: The thing is, to reach his secrets we will have to eat the whole cake! This is easier said than done though as the cake regenerates itself periodically with the help of magic. ...
+
+Biff The Baker: So we only have a few minutes to eat a whole layer of the cake, only then it will not regenerate but the upper layer will come down. So layer for layer we have to eat that cake. ...
+
+Biff The Baker: It will take an army of hungry Tibians to eat them all in time. Even then things have to be somewhat coordinated. ...
+
+Biff The Baker: People have to be brought here, wait for their turn to eat and of course stay hungry. Eating another layer might prove futile if you do not wait a few minutes for the hunger to return. ...
+
+Biff The Baker: The good thing is that all people, big and small, can participate. ...
+
+Biff The Baker: I guess the isle had a nice and flashy name in the past. But you know how people are. Someone started to call it the Cake Isle and I guess it is only a matter of time until this is shortened to CI. ...
+
+Biff The Baker: People don't take their time anymore, not even for enjoyment.
+
+Player: Seymour
+Billy: I don't like his headmaster behaviour. Then again, he IS a headmaster after all.
+
+Player: isle
+Billy The Baker: Now once we've got enough ingredients to finish the bridge, we have to face another challenge. And that is the cake keep itself! Is is an almost impenetrable though edible fortress made completely out of cake! ...
+
+Billy The Baker: The thing is, to reach his secrets we will have to eat the whole cake! This is easier said than done though as the cake regenerates itself periodically with the help of magic. ...
+
+Billy The Baker: So we only have a few minutes to eat a whole layer of the cake, only then it will not regenerate but the upper layer will come down. So layer for layer we have to eat that cake. ...
+
+Billy The Baker: It will take an army of hungry Tibians to eat them all in time. Even then things have to be somewhat coordinated. ...
+
+Billy The Baker: People have to be brought here, wait for their turn to eat and of course stay hungry. Eating another layer might prove futile if you do not wait a few minutes for the hunger to return. ...
+
+Billy The Baker: The good thing is that all people, big and small, can participate. ...
+
+Billy The Baker: I guess the isle had a nice and flashy name in the past. But you know how people are. Someone started to call it the Cake Isle and I guess it is only a matter of time until this is shortened to CI. ...
+
+Billy The Baker: People don't take their time anymore, not even for enjoyment.
+
+Player: trade
+Black Bert: Here, but pssst. And remember, no guarantee that you're able to use it. YOU have to know what you're buying there.
+
+Player: hi
+Blossom Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: knights of noodles
+Blossom Bonecrusher: WOOF! WOOF! Go away with these puny king's puppies.
+
+Player: bye
+Blossom Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: daraman
+Bo'Ques: Ah yes. That human WAS special, believe me. Did you know I talked to him myself, back in those days? In fact, I even had an argument with him because he dared to insult my work! He drove me mad when he called me a self-indulgent glutton. ...
+
+Bo'Ques: But you know, eventually we came to respect each other! He taught me to stress quality rather than quantity, and he came to appreciate my 'Chilli con Cobra'. Today I know that having met him was a major step forward in my development as a culinary artist.
+
+Player: (idle)
+Bolfona: You consider yourself superior? Let me show you the drinking skills of a female dwarf.
+
+Bolfona: YES, I'm female. Got a problem with that?!?
+
+Bolfona: Come on guys, have a drink.
+
+Player: dwarf / emperor
+Bolfona: Guys, I have a good one. Do you know the term for a foolish, tall being that roams through Beregar? ....It's a HUMAN! Hahahaha!
+
+Player: woman / female
+Bolfona: I THINK YOU NEED A GOOD SPANK FROM A WOMAN, HUH?!
+
+Player: man / male
+Bolfona: WHAT DID YOU JUST SAY?!?
+
+Player: trade
+Bolfona: Oh well, you don't seem to be THAT bad. What do you want?
+
+Player: beregar / rehal
+Bolfona And Drog: These 20 beers each evening kill ME. Muahahahaha! These 20 hour shifts kill me.
+
+Player: dwarf / emperor
+Bolfona And Drog: Guys, I have a good one. Do you know the term for a foolish, tall being that roams through Beregar? ....It's a HUMAN! Hahahaha! Muahahahaha!!!
+
+Player: food / meat
+Bolfona And Drog: Have you heard the rumours about that other dwarven city? NO WAY! You're kiddin' me?!?!
+
+Player: male / female
+Bolfona And Drog: Ohoh, I gotta go now. Just remembered that I have a rotworm in my oven. WHAT DID YOU JUST SAY?!?
+
+Player: man / woman
+Bolfona And Drog: WHAT DID YOU JUST SAY?!?
+
+Player: trade
+Bolfona And Drog: Oh well, you don't seem to be THAT bad. What do you want?
+
+Player: hi
+Bounac Guard: YOU CANNOT PASS, TRAVELLER. THE CASTLE OF BOUNAC IS UNDER SIEGE.
+
+Player: pass
+Bounac Guard: YOU WANT PASSAGE, TRAVELLER?
+
+Player: yes
+Bounac Guard: ALRIGHT ALRIGHT, LOWER YOUR VOICE STRANGER, I'M NOT DEAF! ...
+
+Bounac Guard: Alright, traveller, I've already heard of you. You can enter the castle. Good luck!
+
+Player: King (Kingsday)
+Bozo: Kings worry about a receding heir line! Hahahaha!
+
+Bozo: Kings sometimes found that uprisings were a.... peasant surprise.
+
+Bozo: Royal chairs are rarely throne out! Hehehehe come on, that's funny!
+
+Bozo: What do you call a mean Ancient Egyptian leader? Say? Say? Un-fair-oh!
+
+Bozo: Queen Eloise was recently caught gambling. She had a royal flush! Hahahahaha!
+
+Bozo: Queen Eloise told King Tibianus that he was a royal pain in the butt. Mwhihihihi!
+
+Bozo: Countess Sorrow recently started to think about her count-less opportunities. Get it? Get it? Hahahah!
+
+Bozo: The people stand up for royalty. The queen sits down for royal TEA. Ah, not one of my best ones, I admit.
+
+Player: God
+Bozo: I better make no jokes about THIS matter.
+
+Player: Cyclops
+Bozo: How many eyes does a cyclops have? ... One for each IQ point they have!
+
+Player: isle
+Brian The Baker: Now once we've got enough ingredients to finish the bridge, we have to face another challenge. And that is the cake keep itself! Is is an almost impenetrable though edible fortress made completely out of cake! ...
+
+Brian The Baker: The thing is, to reach his secrets we will have to eat the whole cake! This is easier said than done though as the cake regenerates itself periodically with the help of magic. ...
+
+Brian The Baker: So we only have a few minutes to eat a whole layer of the cake, only then it will not regenerate but the upper layer will come down. So layer for layer we have to eat that cake. ...
+
+Brian The Baker: It will take an army of hungry Tibians to eat them all in time. Even then things have to be somewhat coordinated. ...
+
+Brian The Baker: People have to be brought here, wait for their turn to eat and of course stay hungry. Eating another layer might prove futile if you do not wait a few minutes for the hunger to return. ...
+
+Brian The Baker: The good thing is that all people, big and small, can participate. ...
+
+Brian The Baker: I guess the isle had a nice and flashy name in the past. But you know how people are. Someone started to call it the Cake Isle and I guess it is only a matter of time until this is shortened to CI. ...
+
+Brian The Baker: People don't take their time anymore, not even for enjoyment.
+
+Player: kazordoon
+Brodrosch: Hey, we ARE at Kazordoon! Must be the cave madness...
+
+Player: name
+Broken Servant Sentry: We. Are. Sen-Sen-Sen-try! Stand. Sentry. We. Will-ill-ill-ill*chhhhrrrk*. I. Am. Sorry. It. Seems. I. Am-Am-AAAAA*chhhrk*Am. Broken.
+
+Player: tower
+Broken Servant Sentry: Strange. Other. Experimenter. Conducted. Experiments. In. Other. Tower. Great. Problems. ...
+
+Broken Servant Sentry: Master. Avoids. Problems. An-An-An-AAAA*chhhrk*nd. Needs. Samples.
+
+Player: yes
+Bron: Really! That is such an incredibly nice offer! I already have a plan. You have to teach him that sometimes words are stronger than fists. ...
+
+Bron: Maybe you can provoke him with something to get angry, like saying... 'MINE!' or something. But beware, I'm sure that he will try to hit you. ...
+
+Bron: Don't do this if you feel weak or ill. He will probably want to make you leave by using violence, but just stay strong and refuse to give up. ...
+
+Bron: If he should ask what else is necessary to make you leave, tell him to 'say please'. Afterwards, do leave and return to him one hour later. ...
+
+Bron: This way he might learn that violence doesn't always help, but that a friendly word might just do the trick. ...
+
+Bron: Have you understood everything I told you and are really willing to take this risk?
+
+Player: fighting spirit (after getting one)
+Bron: Fighting spirit? What am I supposed to do with this fi... - oh! I feel strange... ME MIGHTY! ME WILL CHASE OFF ANNOYING KIDS! GROOOAARR!! RRRRRRRRRRRRAAAAAAAGE!!
+
+Player: Hi
+Buddel: Hey big guys. *HICKS*
+
+Buddel: Ho ho, two beautiful ladies here in Okolnir *HICKS*. Captain Buddel is always at your service!
+
+Player: How Are You?
+Buddel: Good, good, good! *HICKS*
+
+Player: Player
+Buddel: You are also called Player?!?!? Your mother was not very inventive *HICKS* but very convenient. ...
+
+Buddel: She only needs to remember one name and when she calls one of you, both of you will come!!!
+
+Player: trade / sell
+Buddel: Do you have *HICKS* a compass for sale? If you do *HICKS* I trade it. Most I got so far seem to be *HICKS* broken though.
+
+Player: buy
+Buddel: BUY YOUR OWN RUM!
+
+Player: kick
+Buddel: Get out o' here!*HICKS*
+
+Player: King
+Buddel: I'M THE KING OF THIS SHIP AND ALL RUM FLASKS IN IT!!
+
+Player: queen
+Buddel: No queen!! I'M THE KING OF THIS SHIP AND ALL RUM FLASKS IN IT!!
+
+Player: Druids
+Buddel: Druids are strange. Are you two druids? Er, not that you look strange!! No, no, no! *HICKS*
+
+Player: Shamans
+Buddel: CAN'T YOU SEE I'M TALKING TO THAT GENTLEMAN BESIDE YOU?!?!? Okay, what did you ask?
+
+Player: barbarian
+Buddel: I am a barba, a barbarara, ........ a barbarian. The smart type, you know? *HICKS*
+
+Player: News
+Buddel: Breezelda brought rum from Port *HICKS* er Hope.
+
+Player: Jarl
+Buddel: Sven? She's old and called young, er he. Sure he is! Got me? No? *HICKS* Doesn't matter.
+
+Player: Breezelda
+Buddel: She is a suuuuu*HICKS*uuuch a good captain! Sold me all her rum and not even ve'y expensive. *HICKS*
+
+Player: rum
+Buddel: I don't know and I don't wanna know how that stuff is made but it tastes good! Good, good, *HICKS* very good! I have it from Breezelda.
+
+Player: Mead
+Buddel: Mead is good. Good, good, good ........ but that rum I bought from Breezelda is a nice va'iation! *HICKS*
+
+Player: test (with empty rum flask)
+Buddel: You two guys are really nice to me! Thank ya for the rum. *HICKS*
+
+Player: dwarven ring
+Buddel: I've never seen one, but this thing comes straight out of *HICKS* hell.
+
+Player: honourary
+Buddel: Hono..what? *HICKS*
+
+Player: monster / enemy
+Buddel: Life is a monster and RUM is the weapon to beat it. Like a sack of flour, BAM, BAM, BAM until it rips and flour is spreading everywhere buuuut ...
+
+Buddel: ...don't spill that good rum over the flour!! Okay?
+
+Player: rumour
+Buddel: I saw a dragon at the harbour! YES! It crawled up the bow of that battleship! *HICKS* Not very agile these beasts, it nearly didn't move at all.
+
+Player: Dragon
+Buddel: I saw one at the harbour! YES! It crawled up the bow of that battleship! *HICKS* Not very agile these beasts, it nearly didn't move at all.
+
+Player: Husky
+Buddel: I like them! Som'times when I fall asleep on my way home they warm me! Cute isn't it? *HICKS*
+
+Player: Yeti
+Buddel: Nooooo, you are no yeti. They are not that ugly! *HICKS* And they only have two eyes! OH MY GOD.... YOU ARE THAT BONELORD AGAIN!!! AHHHHHHHH
+
+Player: bonelord
+Buddel: YEAH, I've seen one here in Svargrond!!! Many eyes, huge and I couldn't understand it!! Just last night when I was o' my way home! *HICKS*
+
+Player: Raiders
+Buddel: They are fools. Other than us three, we are drunk er smart. *HICKS*
+
+Player: everspring
+Buddel: Go swimming for five minutes and you'll be there. *HICKS*
+
+Player: Years Of the Serpents
+Buddel: The serpents were bad. Bad, bad, bad!! BAD SERPENTS! BAD!! I don't want the serpents back. No!
+
+Player: one
+Buddel: Ye, ye, ye trying to cheat me, huh?? *HICKS* You are a little toooooo big for a dwarf! *HICKS* But your eyes ?!? One, ...two, *HICKS*...three, ...four! AHHHHH!!!
+
+Player: cult
+Buddel: You wanna reestablish one?!?! Can I *HICKS* join?? Do we get enough to drink? Tell me if I can join!
+
+Player: Nibelor
+Buddel: The shamans respect me. They like fish! I like fish too. *HICKS* Stupid question! Otherwise I wouldn't be a fisherman!
+
+Player: Passage / ship / go
+Buddel: Where are we at the moment? Is this Svargrond? Ahh yes!*HICKS* Where do you want to go?
+
+Buddel: Where are we at the moment? Is this Svargrond? NO,*HICKS* it's Helheim! Anyway, where do you want to go?
+
+Buddel: Where are we at the moment? Is this Svargrond? NO,*HICKS* it's Tyrsung! Anyway, where do you want to go?
+
+Buddel: Where are we at the moment? Ahh, this is Okolnir!*HICKS* Where do you want to go?
+
+Buddel: Where are we at the moment? Is this Svargrond? NO!*HICKS* Anyway! Where do you want to go?
+
+Player: (valid destination with dwarven ring)
+Buddel: Ohh, you got a nice ring there! Ya don't have to pay if you gimme the ring and I promise you I will bring you to the correct spot!*HICKS* Alright?
+
+Player: Svargrond
+Buddel: You know a town nicer than this? NICER DICER! Apropos, don't play dice when you are drunk ...
+
+Buddel: You wanna play a little bit? We three?? No? Ahhhhh, you are drunk! I see! *HICKS*
+
+Player: svargrond (on isles)
+Buddel: You are right. We should go there and visit Dankwart at the tavern!! *HICKS*
+
+Player: Tyrsung
+Buddel: *HICKS* Big, big island east of here. Venorian hunters settled there ..... I could bring you north of their camp.
+
+Player: tyrsung (on tyrsung)
+Buddel: The Venoreans are in the South and I think there are huge dwarfs here ...*HICKS*... or are they called differently?!? I don't know.
+
+Player: helheim (on helheim)
+Buddel: Cosy place here! I like it! *HICKS*
+
+Player: hrodmir (on svargrond)
+Buddel: Yup, here we are! *HICKS* Nice, isn't it?! I could bring you via ship to the raider camps in the South so you don't have to climb up the glacier.
+
+Player: hrodmir (on isles)
+Buddel: The most iciest of all our nice Ice Islands! *HICKS* I could bring you via ship to the raider camps in the South so you don't have to climb up the glacier.
+
+Player: hrodmir (hrodmir)
+Buddel: Yup, here we are! *HICKS* Nice, isn't it?! The raider camps are to the north and west.
+
+Player: okolnir
+Buddel: Beware of frost dragons! Have fun. *HICKS*
+
+Player: yes
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Svargrond!
+
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Okolnir!
+
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to the south of Hrodmir!
+
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Helheim!
+
+Player: no
+Buddel: SHIP AHOY! I AM BUDDEL THE ..... did you say no??? Alright.
+
+Player: false
+Buddel: You told me that you wanna get here! Maybe your should arrange yourself better with your brother!*HICKS*
+
+Player: queen
+Bunny Bonecrusher: HAIL TO QUEEN ELOISE, OUR NOBLE LEADER!
+
+Player: LEADER
+Bunny Bonecrusher: Queen Eloise is a fine leader for our fair town, indeed!
+
+Player: bye
+Bunny Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: hi
+Busty Bonecrusher: LONG LIVE THE QUEEN!
+
+Busty Bonecrusher:
+
+Player: knights of noodles
+Busty Bonecrusher: WOOF! WOOF! Go away with these puny king's puppies.
+
+Player: bye
+Busty Bonecrusher: LONG LIVE THE QUEEN!
+
+Player: no
+Captain Dreadnought: What? Then what DO you want? Learn about the main Tibian cities?
+
+Player: Venore
+Captain Dreadnought: Hohoh, one of the richest cities, filled with merchants and LOOT! Err. I mean, it is HIGHLY recommendable for unexperienced and first-time adventurers. Don't know why they built it over a stinking swamp though. I can sail there if you like.
+
+Player: rum
+Captain Haba: It lets me forget the long years, the lost years. The years I was chasing after THAT monster, the sea serpent.
+
+Player: random word
+Captain Haba: Harharhar, landlubber, no no!! The correct command would be STRAIGHT. Remember that! Next, what you gonna say when you see something to the left? random word Harharhar, landlubber, ya got it all wrong!! The correct command would be LARBOARD side. Don't forget that, 'kay? Last one, what you gonna say to me when ya see somethin' to the right?
+
+Player: random word
+Captain Haba: Ya gotta learn a lot! The correct command would be STARBOARD side. ...
+
+Captain Haba: After you told me about the direction, put a bait on the crane again and go up to the lookout! That would be all sailor, let's go hunt down the sea serpent!!
+
+Player: Thais, Carlin, Ab'Dendriel, Kazordoon, Venore, Ankrahmun, Edron, Darashia, Liberty Bay or Port Hope
+Charos: SO BE IT! <gasps> I ... need some rest. Please leave me alone now.
+
+Player: femur
+Chemar: Are you sure that you are not talking about the FEMOR Hills?
+
+Player: disturb
+Chester Kahs: I'm the head of the TBI.
+
+Player: TBI
+Chester Kahs: The Tibian Bureau of Investigation, the secret service of His Royal Highness ...
+
+Chester Kahs: The TBI is an old institution with tradition. Since centuries we are the protectors of our king and country ...
+
+Chester Kahs: We successfully fight intrigues and corruption from within and enemies from without. Only the most talented individuals are allowed to join.
+
+Player: lugri
+Chester Kahs: At least you KNOW that you have to expect only evilness from this guy and that's the best one can say about him.
+
+Player: king
+Chester Kahs: King Tibianus III is our leader and my direct superior.
+
+Player: trust
+Chester Kahs: Too many possibilities to become a servant of darkness to trust ANYONE!
+
+Player: excalibug
+Chester Kahs: We are surrounded by myths, living and dead. How can someone doubt that there IS something like Excalibug somewhere?
+
+Player: Boom
+Chief Grarkharok: Grarkharok like BOOM, BOOM sound! Go mountain, push rock and BOOM!
+
+Player: Item
+Chief Grarkharok: I Tem?!?!? No know! Maybe YOU Tem?
+
+Player: yes
+Chief Grarkharok: Gimme gimme! Yumyumyum! <BUUUURP>.
+
+Player: yes
+Chief Grarkharok: Gimme gimme! Yumyumyum! <BUUUURP>.
+
+Player: hi
+Christoph: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Christoph: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Christoph: LONG LIVE THE KING!
+
+Player: hint
+Cipfried: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Cipfried: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: ghostlands
+Cornelia: THE GHOSTLANDS??? Make sure to buy the best protection in store before you get even close there.
+
+Player: Edron
+Cornell: The isle of Edron is rumoured to have been the home of a powerful ancient race. But King Tibianus III reclaimed it for humanity and founded a colony.
+
+Player: mission / quest
+Cranky Lizard Crone: Oooh... I am alone again, alone forever. Oooh. And nozing to do, nozing. But I want to help.. want to make up for the trouble I cauzed. ...
+
+Cranky Lizard Crone: YOU - you zere, I can help you.. maybe, I can clean your houze, no? Or make breakfazt, no? Do you have any trouzerz, hat, cape or clozez you need to fix, no? Ah, I am alone, ever alone.
+
+Player: mission (The Spirit Will Get You Quest)
+Cranky Lizard Crone: Yez, yez, I could need your azziztanze indeed. I am all alone, all on my own. But ZEY will not leave me in peaze. Zeir zpiritz, zey haunt me. Zeir ghoztz long for me. ...
+
+Cranky Lizard Crone: I need... you to bring me what zey are zearching. Zomezing I can give to zem zat ztopz zem from haunting me. In ziz beautiful village I have... lozt zomezing, yez. My memory, you know. ...
+
+Cranky Lizard Crone: Zere are 3 cheztz zomewhere in zeze gorgeouz houzez you zee around you. You zee zem, don't you? My eyezight, you know. It iz fading. And I can't remember... which houzez zey were in. ...
+
+Cranky Lizard Crone: But YOU are young, YOU can zee, YOU can find zem. Each of ze cheztz containz a... paper. A will. From memberz of my poor dezeazed family. Pleaze get zem for me, child. Will you help me?
+
+Player: Ahehe (after completed the quest)
+Cranky Lizard Crone: Quit laughing about me, BEGONE.
+
+Player: yes (finishing the quest)
+Cranky Lizard Crone: Hahahahahahahaaaaaa. You did it. You brought it back. You did what I could not. What I waz forbidden to do. Bound to ziz plaze. Ze very ground I ztood on when dizazter ztruck. ...
+
+Cranky Lizard Crone: When everyzing waz ztill bright, ze houzez tidy, ze blozzomz blazing, ze waterz pure - I killed zem. ...
+
+Cranky Lizard Crone: I took care of zeir houzeholdz for zo long, zeir roomz, zeir bedz, zeir offzpring. I had enough. I could not ztand zeir fazez anymore. Ztaring down on me, adorning zemzelvez wiz decadenze. ...
+
+Cranky Lizard Crone: Yez, I took care of zem one lazt time, each of zem. ...
+
+Cranky Lizard Crone: And when I waz done and it waz all water under ze bridge, I returned, to collect my reward. My merit, my payoff. If I got my hand on each lazt will, none would benefit from zeir wealz. And I would have my revenge. ...
+
+Cranky Lizard Crone: AND IT WAZ TAKEN FROM ME. ...
+
+Cranky Lizard Crone: Zuddenly zomezing happened, ze zky darkened, ze world around me changed, all inhabitantz of ziz poor decal of a village died in ziz horrible cataztrophe. ...
+
+Cranky Lizard Crone: To zink zat I would've only had to WAIT. Inztead I ended up BURIED under ze remnantz of ziz dump. ...
+
+Cranky Lizard Crone: My goal moving infinitely far out of reach, I finally breazed my lazt. I died here all zoze yearz ago az well. ...
+
+Cranky Lizard Crone: Bound to ziz zoil I waz reztlezz wiz ziz unfinished affair. And YOU, YOU achieved what I could not. You retrieved ze lozt willz and NOW I AM THE GAINER. ...
+
+Cranky Lizard Crone: Haha, ha... ha. ...
+
+Cranky Lizard Crone: Why... why do I not dizappear? What'z happening? ...
+
+Cranky Lizard Crone: Hmmm... what? Ziz lazt document readz zat... large partz of ziz one'z heir were meant for... me? He didn't know ...
+
+Cranky Lizard Crone: Zo ziz iz not about my revenge? I am here for... punishment? PUNISHMENT? ZIZ IZ YOUR FAULT HUMAN! BEGONE. LEAVE. Leave me. Leave me... alone.
+
+Player: hi
+Dagomir: Wha... what?? HOW DARE YOU!!?? LEAVE ME ALONE ON MY TOILET AT ONCE!
+
+Player: king
+Dallheim: HAIL TO THE KING!
+
+Player: hint
+Dallheim: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Dallheim: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: Edron
+Daniel Steelsoul: This isle is rumored to have been the home of a powerful ancient race which became extinct before the corpsewars. It was up to King Tibianus III to reclaim it for humanity and to found this colony.
+
+Player: Bye
+Daniel Steelsoul: PRAISE TO BANOR!
+
+Player: yes
+Demon Mother: Uh ... Uhm ... Really? Fabulous! Here we go! Take care! It is now bound to YOU, so don't try to swap it with another baby. My magic will prevent that and return it to you!
+
+Player: yes
+Demon Mother: Hey! I already gave you one of my children! If you have failed to take care of it, it will find me. And then I'll find YOU!
+
+Player: frans
+Digger: I think the FRANS is bugged.
+
+Player: (idle)
+Dixi: Don't let these mean monsters hurt you - get better equipment now!
+
+Dixi: <CLEARS THROAT> GET YOUR ARMOR AND SHIELDS HEEEEEEERE! UPSTAIRS!
+
+Dixi: Need some help? Just ask me, I can show you around!
+
+Dixi: Don't forget to protect yourself with a shield!
+
+Dixi: Selling the finest armors on Rookgaard!
+
+Player:
+Doctor Gnomedix: So let the examination begin! Now don't move. Don't be afraid. The good doctor gnome won't hurt you - hopefully!
+
+Doctor Gnomedix: Now! Now! Don't panic! It's all over soon!
+
+Doctor Gnomedix: Let me try a bigger chisel!
+
+Doctor Gnomedix: We're almost don... holy gnome! What's THIS???
+
+Doctor Gnomedix: I need a drill! Gnomenursey, quick!
+
+Doctor Gnomedix: Hold still now! This might tickle a little...
+
+Doctor Gnomedix: Take this, you evil ... whatever you are!
+
+Doctor Gnomedix: I got it! Yikes! What was that? Uhm, well ... you passed the ear examination. Talk to Gnomaticus for your next test.
+
+Player: Liberty Bay
+Dorian: There are many opportunities in Liberty Bay. The poor are eager allies against the rich, and the latter are often VERY rich. Still, the laws are quite strict, and poor or not, the locals are somewhat suspicious towards strangers.
+
+Player: combinatorics
+Doubleday: Besides the state of the altered glooth down there, I am trying to figure out more about the structure of the creatures this affects. This requires blood - in a certain combination! ...
+
+Doubleday: See, down there in the upper parts of the new sewers, you can find three sorts of creatures. When I went down there the last time - and that was quite some time ago - I found a strange substance. ...
+
+Doubleday: Undoubtedly blood - but not just any blood. It must have been a certain combination of everything that crawls down there. Believe it or not - it made a puddle of my altered glooth down there perfectly stable! ...
+
+Doubleday: I couldn't find out the combination - but I took samples! See, this is like - mixing a certain cocktail, you need to put different liquids with different densities in a specific order to get the best effect, ahem heh heh, eh? ...
+
+Doubleday: Well, don't you get it? If you can kill them in a specific order (which I will explain to you in DETAIL before), the mixed blood will be ideal for my research! ...
+
+Doubleday: Sounds crazy, doesn't it? Well it isn't! If I can figure out what kind of monster combination made the altered glooth stable - there will be no shortage of altered glooth anymore! ...
+
+Doubleday: With that being said - only combo chains (3x 3 creatures in a row and consecutive chains) will be rewarded! So, are you in or not or what?
+
+Player: yes
+Doubleday: Alright let's see! You didn't beat the total highscore of 630 with 210 consecutive chains. Only consecutive triple chains will count! ...
+
+Doubleday: Remember that failing by killing enemies in the wrong order will completely RESET your current score and I will NOT be able to reward you. Your overall record will be stored, however. ...
+
+Doubleday: Well keep trying - and most importantly, keep me informed!
+
+Player: yes
+Dr Merlay: But I still see some letters with you! I can imagine you're busy, but please give ALL my friends my letters as soon as possible.
+
+Player: job
+Dr Merlay: Job? JOB? Are you mocking me? I try to find a cure!
+
+Player: letter
+Dr Merlay: Yes, yes! I should write to Emily again! I have been silent for too long! At least SHE will recognise me by my style.
+
+Player: beregar / rehal
+Drog: These 20 beers each evening kill ME. Muahahahaha!
+
+Player: food / meat
+Drog: NO WAY! You're kiddin' me?!?!
+
+Player: hi / hello
+Dronk: Mh, oh? It looks like YOU WANT to help, well then...?
+
+Player: Groam
+Dronk: Well, Groam is a friend. Groam and I already had that pestering pool all drained, but that didn't last long. SUDDENLY, we heard voices from down there, VOICES my friend. ...
+
+Dronk: We didn't know what to do, so we started searching the mud. AND THEN, I had that sudden urge to just leave that place. ...
+
+Dronk: PROBLEM IS, when I turned around to ask Groam about it, he just said something about an entrance and then he disappeared. ...
+
+Dronk: So my buddy already went down there, but he did not return. Eventually the water came back and the voices stopped.
+
+Player: machine / pump
+Dronk: I don't understand the technomancers magic completely, but using coal on one of the three pumps down here will drain the water in the pool at the end of the tunnel. ...
+
+Dronk: PROBLEM IS, when the water is drained, something seems to 'awake'. ...
+
+Dronk: Hey stop looking like that, I know it's true, I don't make this up. I HEARD THEM. Alright, I heard them.
+
+Player: problem
+Dronk: As you might have noticed, the tunnel here is filled with water. We got the machines from the technomancers to pump the water out but our resources on coals are quite thin. ...
+
+Dronk: Most coal is used for blacksmithing and something as unimportant as an inaccessible tunnel is not deemed worthy of our black gold you know. ...
+
+Dronk: We KNOW it is no ordinary tunnel system down there though but we found some kind of ruins down there. PROBLEM IS, we had no spare time for exploring before the water drove us out. ...
+
+Dronk: Now I really would love to get the machines running but first we have to gather enough coal to make them work.
+
+Player: help / job
+Dronk: I'm responsible to oversee the security and integrity of the mine tunnels. ...
+
+Dronk: Ah right, and you can help me out here if you want. PROBLEM IS, you probably don't even know what you are doing here. ...
+
+Dronk: See the pumps there? And the pool of water over there?
+
+Player: yes
+Dronk: Good, because that is part of the problem. AND THE PROBLEM IS, while these pumps are able to drain the water out of the pond over there, they only work for a limited time. ...
+
+Dronk: They run on *coal* you see, COAL. And that's the one thing I just don't have down here right now. ...
+
+Dronk: Yeah I know that I could mine some more or just loot some creature's corpse but I can't leave just yet. ...
+
+Dronk: Still, even with that pool drained, I still need to find Groam and I surely won't leave without him.
+
+Player: help / job
+Dronk: I'm responsible to oversee the security and integrity of the mine tunnels. ...
+
+Dronk: Ah right, and you can help me out here if you want. PROBLEM IS, you probably don't even know what you are doing here. ...
+
+Dronk: See the pumps there? And the pool of water over there?
+
+Player: yes
+Druid Yandur: SO BE IT! Let the energy of nature fill you, druid Player! Learn the words of your first three spells: 'UTEVO LUX', 'EXURA' and 'EXORI MIN FLAM' ! Light, Light healing and Apprentice's strike. ...
+
+Druid Yandur: You may cast it by saying the magic words 'UTEVO LUX', 'EXURA' and ' EXORI MIN FLAM' while you have enough mana. Also, you have earned the right to enter the cellar of this house. What you will find inside the chests there is yours to take. ...
+
+Druid Yandur: Equip yourself well and gather some experience in the caves below. You may stay there for a while, but you should leave for the main continent soon. ...
+
+Druid Yandur: The captain on the ship to the north will bring you to a city of your choice when you are prepared. Farewell, young druid, and don't hesitate to ask me if you have any questions.
+
+Player: danger
+Eathar: It seems our plant causes the some local wildlife of the underground to go mad for some odd reason. We have no idea what's happening but the attacks of the beasts are undeniable. ...
+
+Eathar: The worst part is, that even creatures formerly unknown in this area, burrow their way to the plant. And some of these creatures are HUGE, I tell you
+
+Player: HUGE
+Eathar: The worst attacker is the occasional tremor worm as we have called them. They are enormous solitary beasts whose presence alone causes enough damage to threaten the stability of the plant. ...
+
+Eathar: Their digging and moving underground send tremors to the delicate machines in the plant and they often destroy parts of our cooling system. ...
+
+Eathar: This will sooner or later cause our systems to malfunction and some of them even to explode. ...
+
+Eathar: Causing massive damage to the plant. The only way to stop them, is to kill them before they caused too much damage to our systems.
+
+Player: Sorry
+Eclesius: Yes, you SHOULD be sorry!
+
+Player: Venore
+Eclesius: It's to the far east of here. You can either reach it by ship or walk there, but it's QUITE a walk. I think.
+
+Player: Exterminate (after killing the cat)
+Eclesius: Don't even THINK that I'll let you into my attic again, you cat killer! And don't count on me forgetting about that incident!
+
+Player: hi
+Eclesius: Oh. OH. Is that... the result...?
+
+Player: hi
+Edala: AAAARGH! Player! My ears! I'd prefer listening to drunken dwarves rambling all day to the sound of your lyre! Please, at least get it tuned. Here, you can have this elvish diapason.
+
+Player: hi
+Eirik: LONG LIVE JARL SVEN, THE YOUNGER!
+
+Player: name
+Eirik: I AM A BARBARIAN! Names are of no concern during work!! If somebody is calling for help, I will come.
+
+Player: tales
+Eirik: Once upon a time there was ..... WHO DO YOU THINK I AM! GO TO YOUR GRANDMOTHER FOR SUCH THINGS!! (idle)
+
+Player: noise
+Eirik: You heard something?? ALARM, RAIDER ATTACK!! (idle)
+
+Player: breasts / busty
+Eirik: NOT ME! With that thick fur clothes we are wearing, it is not easy to see... er... female characteristics.
+
+Player: army
+Eirik: Good idea, how many people do we need for an army? Maybe you can recruit a few hundreds of your friends? *GIGGLE*
+
+Player: robert
+Eirik: HAA, he thinks his weapons are the best!! Too weak to hold a real barbarian axe! You find him near the arena.
+
+Player: raiders
+Eirik: In fact they are also barbarians. The difference is that WE are civilised and THEY are not!
+
+Player: bye
+Eirik: MAY YOUR WEAPON ALWAYS BE SHARP!
+
+Player: ferumbras
+Elathriel: Even if he'd walk through the town above, the other castes would not see the necessity to follow OUR way.
+
+Player: job / helpful
+Emilie: We agents of the Combined Magical Winterberry Society try to ensure the harvesting and processing of winterberries into all sorts of useful, magical fluids. ...
+
+Emilie: AND we have an important mission for you - yes you. One that will influence practically all of Tibia.
+
+Player: mission
+Emilie: Ahem... WELCOME! The Combined Magical Winterberry Society is proud to have you on board... mumble... mmh... which thank you very much... in our humble opinion... is our duty to... mumble ...
+
+Emilie: And that is why you are here now. To help us, yourself and everyone around you of course. Are you ready to join us and do you have at least 3 bunches of winterberries with you?
+
+Player: hi / hello
+Emma: HAIL TO THE QUEEN!
+
+Player: service
+Emma: I am the head of Carlin's Girls Brigade, also known as CGB.
+
+Player: CGB
+Emma: The CGB is a patriotic organisation that fights our numerous enemies with means that guards or army do not have at their disposal. ...
+
+Emma: We work secretly and covertly. We uncover secret plots and we are both the first line of defence of our city and the last. We are joined only by the best of the best.
+
+Player: AVIN
+Emma: The AVIN is rather a crime syndicate than anything else. If there is something dirty and illegal, they are most likely involved. ...
+
+Emma: They are unscrupulous and also do not back away from blackmailing and assassination.
+
+Player: TBI
+Emma: The TBI is as old-fashioned, stubborn and inflexible as only males can be. What makes this bureaucracy somewhat dangerous, is the money they have at their disposal. ...
+
+Emma: They buy spies and traitors - all of them weak-willed or greedy individuals.
+
+Player: job
+Emma: I am the head of Carlin's Girls Brigade, also known as CGB.
+
+Player: bye / farewell
+Emma: LONG LIVE THE QUEEN! You may leave now!
+
+Player: Noodles
+Emperor Kruzak: WAAAH! Don't mention that beast! He was after the bones of our ancestors last time King Tibianus visited us!
+
+Player: TBI
+Emperor Kruzak: Well, I don't think our southern allies have agents in our town.
+
+Player: Castle
+Emperor Kruzak: Well, our people need no castle, our home IS a fortress.
+
+Player: age / old / youth
+Emperor Rehal: Believe me. I'm OLD.
+
+Player: elf
+Eruaran: Maybe I was once an elf, or perhaps that was only a dream. Does it really matter after all? I think not. Dream, reality, human or elf, all of that is of no consequence at all. ...
+
+Eruaran: We are what we do, we are what we decide. To limit yourself to being an elf or whatever, is to abandon the potential of what you COULD be. - I'm sorry though, I'm not here to preach or teach, and I'm terrible in such things.
+
+Player: hi
+Falk: LONG LIVE KING TIBIANUS! Welcome to the isle of Edron!
+
+Player: leader / king
+Falk: LONG LIVE THE KING!
+
+Player: bye
+Falk: LONG LIVE THE KING!
+
+Player: hi
+Fenbala: MIND YOUR MANNERS COMMONER! Address the queen with her title!
+
+Player: hail queen / hi queen / salutations queen
+Fenbala: HAIL TO THE QUEEN!
+
+Fenbala: Take this!
+
+Player: bye
+Fenbala: LONG LIVE THE QUEEN! You may leave now!
+
+Player: slum
+Fillias: Slum? SLUM? This used to be the heart of town! But now, all those rich people have built their cosy houses on the rock near the magistrate. Currying favours with the powerful, hah.
+
+Player: wine
+Fitzmaurice: Hm, nah, I shouldn't really bother you with this. You know... what do you have there? Wine? A Fitzwilliam's Special...? Oh! ...
+
+Fitzmaurice: Now that's what I call WINE, thank you very much! Hope you enjoy your stay in Bounac as much as I do, my friend!
+
+Player: mine
+Frafnar: It's a crystal mine. You know, long corridors, rails, ore wagons and....surprise...CRYSTALS.
+
+Player: Grombur
+Frafnar: He always stares on Bolfona. If he touches her ONE time, I promise I ..... Calm down Frafnar! Breathe deeply! Nothing happened.
+
+Player: bounac
+Fral the Butcher: BOUNAC!
+
+Player: innkeeper alphonse
+Fral the Butcher: INNKEEPER ALPHONSE?! Oh no. Don't even get me started with that one.
+
+Player: name
+Frans: I am a FRANS.
+
+Player: frans
+Frans: Floatiiiing ReeeeAnimateeeed Necromantiiiic Seeeervant ... FRANS.
+
+Player: ferumbras
+Frans: Wouldn't he beeee the perfect FRANS?
+
+Player: hi
+Friedolin: Why hello Player! I hope you're up to some serious FUN! Oh by the way, I have some news about the contest unless you want to talk about bonus points first!
+
+Player: job
+Friedolin: I am a fan of Furb of Fun and I'm going to inform other Tibians about the BEST colour to join - orange of course!
+
+Player: fan
+Friedolin: There are two others like me, some nature freak in Venore and a random girl for violet in Thais. What, do you want to go there? Why? Why would you do that when you could have FUN instead!
+
+Player: (vanish)
+Friedolin: Goodbye! Oh and - HEY WHAT'S THAT BEHIND YOU?!
+
+Player: hail emperor / hello emperor / salutations emperor
+Frok, The Guard: HAIL TO THE EMPEROR!
+
+Player: bye
+Frok, The Guard: LONG LIVE THE EMPEROR!
+
+Player: hi
+Frok, The Guard: MIND YOUR MANNERS, FOREIGNER! To address the emperor greet with his title!
+
+Player: hi
+Fynn: LONG LIVE JARL SVEN, THE YOUNGER!
+
+Player: name
+Fynn: I AM A BARBARIAN! Names are of no concern during work!! If somebody is calling for help, I will come.
+
+Player: tales
+Fynn: Once upon a time there was ..... WHO DO YOU THINK I AM! GO TO YOUR GRANDMOTHER FOR SUCH THINGS!! (idle)
+
+Player: noise
+Fynn: You heard something?? ALARM, RAIDER ATTACK!! (idle)
+
+Player: breasts / busty
+Fynn: NOT ME! With that thick fur clothes we are wearing, it is not easy to see... er... female characteristics.
+
+Player: army
+Fynn: Good idea, how many people do we need for an army? Maybe you can recruit a few hundreds of your friends? *GIGGLE*
+
+Player: robert
+Fynn: HAA, he thinks his weapons are the best!! Too weak to hold a real barbarian axe! You find him near the arena.
+
+Player: raiders
+Fynn: In fact they are also barbarians. The difference is that WE are civilised and THEY are not!
+
+Player: bye
+Fynn: MAY YOUR WEAPON ALWAYS BE SHARP!
+
+Player: ticket
+Gewen: Do you want to purchase a weekly ticket for the ore wagons? With it you can travel freely and swiftly through Kazordoon for one week. 250 gold only. OK?
+
+Player: tactical
+Gnomad: You will encounter quite a lot of beasties in the area ahead of us. The end of the cave-system is where the trouble begins though. The monsters here all serve some massive creature only known as Deathstrike. ...
+
+Gnomad: The creature is hidden in a well protected chamber. The good news is, we've managed to erect a crystal structure close to the cave that is able to breach its defence and teleport someone into the chamber. ...
+
+Gnomad: The bad news is that the crystals need a specific charge before they can work. As soon as the crystals begin to charge up, Deathstrike's minions will frenzy and spawn in waves to crush all opposition. ...
+
+Gnomad: You will have to kill them quite fast, to not be overwhelmed by their numbers! Our own tries to breach the defence has proven that you'll have to endure six waves until the teleporter to Deathtstrikes' cave opens for a short 30 seconds. ...
+
+Gnomad: Use the GREEN command crystal in the cave to begin the charging of the teleport! Good luck.
+
+Player: name
+Gnomenezer: My name is Gnomenezer. I am the gnomish overseer of the golem facility. That is I WAS the overseer until that earthquake drove all the golems nuts. Now all I can do is to explain what is happening here to helpers such as you.
+
+Player: job
+Gnomenezer: I am the gnomish overseer of the golem facility. That is I WAS the overseer until that earthquake drove all the golems nuts. Now all I can do is to explain what is happening here to helpers such as you.
+
+Player: explain
+Gnomenezer: Ok, your task here is quite simple. Well the task WOULD be simple, if you were a gnome. Sadly you are a ... uhm, something ... What is it they call you guys again? It was something like humus! ...
+
+Gnomenezer: Don't tell me! Just a minute ... well while I think about it I can continue to explain your task to you. For the time being I'll call you a humus if need be. Now for your task, and this time please refrain from interrupting. ...
+
+Gnomenezer: We have to get things done here, you know? However. The task is quite simple ... that is if ... no, wait, we had that already. So listen: ...
+
+Gnomenezer: Plain and simple, so even a humus can understand it. Ahem, you don't mind being called a humus, do you? ...
+
+Gnomenezer: It's only for the time being, as I said ... so now ... without further interruptions <gives you a stern look> you have to repair some of our crystal golems. ...
+
+Gnomenezer: You know, they sometimes 'loose their music' as we say. The golems are controlled not by sentience but by complex melodies that dictate their actions. ...
+
+Gnomenezer: The crystals vibrate in certain ways and react to certain vibrations in certain ways. I would explain it in more detail but I fear you could be a bit at a loss in face of gnomish crystallography. ...
+
+Gnomenezer: In fact, I assume your head might explode if filled with too much gnomish knowledge. ...
+
+Gnomenezer: So do you humus people have a brain in your heads like gnomes do, or is it in your stomach and your head more like a resonance body? I noticed you guys don't only have big feet but also quite loud voices. ...
+
+Gnomenezer: Oh well, no time for that now. Please stick to the topic now. Or even better, just listen silently. So you might remember, golems, crystals, music etc.? ...
+
+Gnomenezer: Well of course you do. So sometimes those golems get a disharmony by certain external effects beyond gnomish control. This is where you come into play. ...
+
+Gnomenezer: You have been handed a resonance bell and now you have to use it on the confused golems. ...
+
+Gnomenezer: That will not repair him of course, but resonate him into a call-back mode that will teleport him to the golem workshop. Simple enough, eh? I trust in you. Just do your humusly possible.
+
+Player: hi
+Gnomette: Ah, another visitor about to enjoy the marvels of gnomish ingenuity. Hello and welcome to the GCTS!
+
+Player: GCTS
+Gnomette: It is the amazing gnomish crystal teleport system! And I of course am here to help our new recruits! You can also ask me for a trade if you are in need of teleport crystals for the GCTS.
+
+Player: challenger
+Gnominer: What an amazing discovery you made! This ... well it changes just everything. As soon as we figured out what you exactly found, we might put it to good use. ...
+
+Gnominer: Still the volcanic activity is on the rise and we expect our old enemy, those below to be tampering with it. ...
+
+Gnominer: If such a volcano erupts not only huge parts of the surface will be covered with lava, the cloud caused by the eruption might plunge you abovegrounders into eternal darkness. ...
+
+Gnominer: For now there's little we can do about it though. The only lead our explorators have, are some magma crystals that seem to interact with the volcano in a dangerous way. ...
+
+Gnominer: We have to figure out if we can reach these crystals with our gnomish heat shielding technology and how their destruction interacts with the environment. ...
+
+Gnominer: Please help our researcher at the GT-M-01 site, he will tell you what to do.
+
+Player: hi
+Gnomish Operative (GT-M-01): Hello! Please let's hurry and proceed with the operation, so we can get out as soon as possible!
+
+Player: name
+Gnomish Operative (GT-M-01): If you are tardy you can call me gnomcrispy soon enough.
+
+Player: job
+Gnomish Operative (GT-M-01): I'm in the unfortunate position of overseeing this insanely hot part of our operation.
+
+Player: news
+Gnomish Operative (GT-M-01): The news is: HURRY!
+
+Player: time
+Gnomish Operative (GT-M-01): It seems it's some minutes before I'm 'well done'.
+
+Player: operation
+Gnomish Operative (GT-M-01): Let's go through this quick. In this cave we discovered certain magma crystals that are attuned to the volcanic core and seem to be part of the process that heats it up.
+
+Player: crystals
+Gnomish Operative (GT-M-01): The crystals must be destroyed. We hope that has a positive influence on the core's stability and heat level. ...
+
+Gnomish Operative (GT-M-01): The problem is, they heat up the area around them to insane levels. ...
+
+Gnomish Operative (GT-M-01): We can provide you with some gnomish heat protection. Just use the crystal machine to charge your shield. ...
+
+Gnomish Operative (GT-M-01): The shield will begin to detoriate rapidly as soon as you are in the superheated area. ...
+
+Gnomish Operative (GT-M-01): Better have an eye on your heat protection and plan your way back too. As soon as the shield runs out, you will take massive damage. ...
+
+Gnomish Operative (GT-M-01): If your heatshield is low, better leave the superheated area and get a new shield charge. ...
+
+Gnomish Operative (GT-M-01): It might take a few runs to get those pesky crystals destroyed. You need to destroy all three of them, so we can see if it does what our scientists expect.
+
+Player: bye
+Gnomish Operative (GT-M-01): Good bye.
+
+Player: tactical
+Gnomole: Since you are seasoned adventurers I'll skip the basics and jump right to the important part! This cave system is overrun by the minions of ... ah well, the greatest shame of gnomekind. ...
+
+Gnomole: That traitorous gnome, known as Gnomevil, who was my pupil before his changeover to the dark side of gnomedom, has abandoned all gnomish ethics and joined forces with our enemies. ...
+
+Gnomole: It's hard to tell what led to his downfall. In the end he seems to have forgotten the principle that with small stature comes great responsibility. ...
+
+Gnomole: He became tainted and corrupted by evil, obviously enough to grow in size, which is always an indicator for evil of course. ...
+
+Gnomole: Now he commands his armies in the name of those below and hides in his lair protected by layers of thick crystal that only he can form and change due to his corrupted powers! ...
+
+Gnomole: There is one thing though that could cause his downfall! His corruption has spread to his minions and in his lair there are some infected weepers that are full of parasites. ...
+
+Gnomole: These parasites will spread a fluid that will weaken the integrity of the crystals in front of Gnomevils lair when they die. The entrance is marked with crystal columns, so you can't miss it. ...
+
+Gnomole: You have to kill enough of the parasites DIRECTLY in front of the crystals. Eventually the columns will collapse and allow you entrance to Gnomevils lair. ...
+
+Gnomole: Take care though, due to Gnomevils power the crystals will grow back quite fast. Better manage the parasites in quick succession or everything will be for naught. ..., Enter his lair and bring an end to his despicable reign!
+
+Player: dr merlay / father
+Graham: I know you wish to give me hope, but my father is dead. I have heard many things about him in the last fifteen years, but to believe THAT? Impossible. I have accepted, with a quiet heart now, that he died for his science.
+
+Player: Elane
+Gregor: A bow might be a fine weapon for someone not strong enough to wield a REAL weapon.
+
+Player: hi
+Grof, The Guard: LONG LIVE THE KING!
+
+Player: king / tibianus / leader
+Grof, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
+
+Player: bye
+Grof, The Guard: LONG LIVE THE KING!
+
+Player: beer
+Grombur: THAT is a problem....I tell you. My shift lasts for 48 hours and no one cares about my thirst. That's such a shame! The barrel over there is already empty and I still have 37 hours to go.
+
+Player: disturb
+Grombur: I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE! No one is allowed to enter.
+
+Player: job
+Grombur: I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE! No one is allowed to enter.
+
+Player: mine
+Grombur: It's a crystal mine. Very rare crystals can be found here. We mine them and produce all kind of precious things out of them. Well, not me. I'm too clumsy for this kind of work so, they PROMOTED me to a guard! ...
+
+Grombur: I'm a good guard, no one without permission is allowed to enter.
+
+Player: name
+Grombur: You haven't heard anything about me yet?! I aehhhhhhohoh........sorry....I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE!...Impressive, huh?
+
+Player: Rerun
+Grombur: I'm sure he's still drunk after THAT amount of beer he drank yesterday.
+
+Player: no help goblin
+Grubokk: That will show uppity goblins! Will take away water. Then they not feel so thirsty for revolt, harr! ...
+
+Grubokk: Three things to make them sorry. Cut off water supplies in mines first. Then poison wells in their wormy city tunnels. Then flood them out of mines with sea water! ...
+
+Grubokk: Will be nicely marinated and seasoned when they wash up here! HAHAHAH!
+
+Player: lost
+Grubokk: Lost? What you lost? I say GET LOST! Ahahahh!
+
+Player: combined magic winterberry society
+Gruffy: The Combined Magical Winterberry Society was founded more than one hundred years ago by mage Tolwyn Winter. ...
+
+Gruffy: It is our duty to ensure the harvesting and processing of winterberries to secure a steady flow of the appropriate magical resources for potions and other magical fluids in this world. ...
+
+Gruffy: What? No, all further information is on a... a 'need to know' basis. Where? No! That's not - I mean I won't tell you where our... IF we even HAVE any headquarters.
+
+Player: mission
+Gruffy: Alright, first thing is | [repeat] Alright, then here we go again. - you deliver your berries and put them into one of the moulds over there. We need to fill the vat with berries before the actual treading can start. ...
+
+Gruffy: When enough winterberries have been put into the moulds, the vat is full and the treading starts. When this time has come, everyone needs to enter the vat and start TREADING like they never trod before. ...
+
+Gruffy: It's possible that you may have to deal with the berry pest, a whole swarm of small flying buggers who will try to feed on the winterberries. ...
+
+Gruffy: If that happens, you will have to remove them. All of them, or the treading cannot continue. ...
+
+Gruffy: Depending on the state of the berries, you will need to add water or sugar to the mix after some time. I will tell you which, just listen to me when the time comes. ...
+
+Gruffy: Whenever you want to return to Thais, simply ask me to transport you back. And that's basically it. All clear or do you want me to repeat it?
+
+Player: mission
+Grumpy Stone: As much as I dislike admitting it: I need help. WE need help. See, when we arrived in this part of the world, we quickly realised that we can't linger here while keeping our true forms. We need to take over animals, plants or stones. ...
+
+Grumpy Stone: And we had to hurry. Some of my siblings were luckier than us and had the chance to take over animals like deer, birds or squirrels. We had to choose these stones and now we are stuck here. ...
+
+Grumpy Stone: I don't know for how long and with this issue you can't help us, I'm afraid. But there is something else, a trifle compared to our main problem. Nonetheless, it is annoying. ...
+
+Grumpy Stone: As for myself I'm fine but my sisters and brothers surrounding us are not. Their backs are itching terribly and we don't have arms and hands to scratch ourselves. Would you help us and scratch my siblings' backs to bring them some relief?
+
+Player: Eclesius
+Guide Elena: You might consider working for the wizard Eclesius who asked us for some talented help. He created a magic portal on the beach in front of our headquarter. USE it to instantly travel to his homestead.
+
+Player: king / tibianus
+Gundralph: Unfortunately, I never met King Tibianus III in person.
+
+Player: mad
+Gunther: Yes, YES! I've seen IT!
+
+Player: cormaya
+Gurbasch: Hey, we ARE at Cormaya! Must be the cave madness...
+
+Player: thais / venore / ab'dendriel /carlin / ankrahmun / darashia / edron / port hope / oramond / roshamuul / svargrond / yalahar / darama / folda / senja / vega / ice islands / issavi / krailos / liberty bay / rathleton
+Gurbasch: How do you expect me to get there? Fly? Hm, wait... NO, sorry.
+
+Player: hi (after completing Warlord arena)
+Halvar: HAIL to the Warlord of the arena, Player! Hero of Svargrond!
+
+Player: (any common svargrond keyword)
+Halvar: I have no time to talk and you should FIGHT instead of wasting your time here!
+
+Player: greenhorn
+Halvar: The fee is 1000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the easiest difficulty?
+
+Player: scrapper
+Halvar: The fee is 5000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the medium difficulty?
+
+Player: warlord
+Halvar: The fee is 10000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the hardest difficulty?
+
+Player: wand / rod
+Hamish: Wands and rods are a magic user's weapon of choice! You can distinguish a specific weapon by its name: WANDS are used by SORCERERS, and DRUIDS use RODS. Simply equip one and aim at a monster to shoot. Mana will be consumed with each shot. ...
+
+Hamish: A sorcerer can't use a rod, and a druid can't use a wand. Simple, really. When you advance some more levels, check back to see if you can buy a new wand or rod that would make more damage!...
+
+Hamish: Each wand or rod makes a specific type of damage, which is useful to know if you're hunting monsters which may be immune or weak to a certain element! ...
+
+Hamish: Traditionally, druid rods focus on ice or earth damage, whereas sorcerer wands deal death, fire or energy damage. Here on Dawnport, the druids deal ice damage with their chiller, while the sorcerers wield the fire-dealing scorcher. ...
+
+Player: elane
+Harkath Bloodblade: AH! WHAT A WOMAN!
+
+Player: king
+Harkath Bloodblade: HAIL TO KING TIBIANUS, OUR WISE LEADER!
+
+Player: leader
+Harkath Bloodblade: King Tibianus III is our wise and just leader.
+
+Player: rebellion
+Harkath Bloodblade: Ask Chester of the TBI about that.
+
+Player: secret police
+Harkath Bloodblade: The secret police is a branch of the Red Guards, better known as TBI.
+
+Player: bye / farewell
+Harkath Bloodblade: LONG LIVE THE KING!
+
+Player: hi
+Harog: Hmmmm, I saw you helping Nokmir and talking to our emperor. Seems like you are not THAT bad. What do you want?
+
+Player: djinn
+Haroun: That is my race. I like to compare it to iron. It has the potential to be forged into the finest steel, but it does need a lot of work and devotion. ...
+
+Haroun: Without that it is nothing but worthless scrap metal. Like our master said in the scriptures: Forge thyself! Be a blade of the true creed! (Book VI, chapter 14, verses 3 and 4).
+
+Player: hi / hello
+Harsky: MIND YOUR MANNERS COMMONER! To address the king greet with his title!
+
+Player: hail king / hello king / salutations king
+Harsky: HAIL TO THE KING!
+
+Player: bye
+Harsky: LONG LIVE THE KING! You may leave now!
+
+Player: hi (after completing Warlord arena)
+Hawkyr: HAIL to the Warlord of the arena! Hero of Svargrond! Are you looking for paladin spells?
+
+Player: hail emperor / hello emperor / salutations emperor
+Hemor, The Guard: HAIL TO THE EMPEROR!
+
+Player: bye
+Hemor, The Guard: LONG LIVE THE EMPEROR!
+
+Player: hi
+Hemor, The Guard: MIND YOUR MANNERS, FOREIGNER! To address the emperor greet with his title!
+
+Player: King
+Henricus: With the rise of the TBI, the king relies less and less on the inquisition. We must become more active and prove our value once more to the king.
+
+Player: frog
+Hoaxette: Oh, the spellwand turned YOU into a frog?? I'm really sorry....NOT!! Hahahaha! Sorry...<coughs>.....muahahaha!
+
+Player: joke
+Hoaxette: I'm not specialised in telling jokes - I'm offering ITEMS that make people laugh. I can tell you something about my offers if you are interested.
+
+Player: technomancer
+Humgolf: GO AWAY! I heard they think of replacing worms with machines. That is an OUTRAGE!
+
+Player: hail emperor / hello emperor / salutations emperor
+Humnog, The Guard: HAIL TO THE EMPEROR!
+
+Player: bye
+Humnog, The Guard: LONG LIVE THE EMPEROR!
+
+Player: hi
+Humnog, The Guard: MIND YOUR MANNERS, FOREIGNER! To address the emperor greet with his title!
+
+Player: hint
+Hyacinth: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Hyacinth: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: Menesto
+Inigo: Hasn't been with us for very long. Very interested in all things mystical, so Menesto was sent down to guard the strange crystal portal we found here. ...
+
+Inigo: ... But of course, you met him. ... So it really is a portal, and you came through it from another plane of existence! I never quite believed the tales of old, not really. But now... it's wonderful, truly wonderful. ...
+
+Inigo: Well, if you have any questions as to THIS plane of existence, which we call Tibia, just ask me. I can give directions, hints, you name it. <winks at you>
+
+Player: NPC / talk
+Inigo: NPC means someone like me or Hamish or Coltrayne, for example. You can easily discern us from players like you, because there is a speech bubble next to our name. ...
+
+Inigo: We all have our different ways, but normally, addressing an NPC with 'hi' or 'hello' will open a conversation. ...
+
+Inigo: Some NPCs will have secret words that they react to that are not highlighted in their conversation. In that case, you need to type in your question. ...
+
+Inigo: To do so, open the NPC Chat Channel and click on the empty space below the NPCs dialogue, and start typing. ...
+
+Inigo: You can try this out by asking an NPC about their job, as this is a keyword most will react to. If you have any other questions, tell me.
+
+Player: play
+Inigo: Our world Tibia is swarmed by many dangerous monsters, so fighting is something you will have to learn and master quickly. You can fight as a sorcerer, druid, paladin or knight. ...
+
+Inigo: We need your help in keeping the monsters at bay - walk out of one of the four gates here, and you will receive one of the four vocations and its gear to try out and fight monsters. ...
+
+Inigo: Dawnport is just a small, but dangerous island. You will have to reach level 8 at least and choose your definite vocation before you can leave for the mainland. To reach level 8, you will have to fight some monsters in order to progress. ...
+
+Inigo: Fighting is essential in Tibia, and though Dawnport is quite safe in comparison to the mainland, be careful not to die, as dying HURTS. ...
+
+Inigo: If you have any other questions, tell me.
+
+Player: rope
+Inigo: You should never leave without a rope. NEVER. A rope can save your life. I once fell down into a poison spider lair - without a rope, I wouldn't be standing here today! ...
+
+Inigo: You can buy a rope over at Richard's shop. If you don't have the money, kill and loot a few monsters - maybe one of them even has a rope with it, that sort of thing happens.
+
+Player: hint
+Inigo: To open or close skills, battle or VIP list, click on the corresponding button. The buttons are displayed to the left or right of your game window.
+
+Player: augustin
+Innkeeper Alphonse: TRADER AUGUSTIN!
+
+Player: hi (after completing Warlord arena)
+Iskan: HAIL to the Warlord of the arena! Player Hero of Svargrond! What can I do for you?
+
+Player: spectulus
+Jack: Gesundheit! It seems you caught quite a cold.
+
+Jack: I... was... sculpting sulky sculptures. For all my life. Until you came in here and DESTROYED MY MASTERPIECE. Go away. I don't like you.
+
+Player: hi / hello (after completing Warlord arena)
+Janz: HAIL to the Warlord of the arena! Player, Hero of Svargrond! Welcome to my shop of wonderful carpentry and furniture.
+
+Player: hi
+Jean Claude: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Jean Claude: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Jean Claude: LONG LIVE THE KING!
+
+Player: ferumbras
+Jefrey: His reappearance would be REALLY bad for business.
+
+Player: quara
+Jefrey: The sheer destructiveness of these sea people is frightening. We just HAVE to get rid of this threat. They are more dangerous than the pirates. At least the pirates come only for our wealth, the quara come for our lives.
+
+Player: (idle)
+Jerom: My house! Uahahahaha <sniffs>.
+
+Jerom: Oh no!! What am I supposed to do now?!?
+
+Jerom: Dear gods! My precious house, DESTROYED!!
+
+Player: carlin
+Jerom: Those amazons denied making business with me. You know the reason?!? I tell you, the reason was that I am MALE! Ridiculous!
+
+Player: races
+Jerom: Yesterday I would have said that I like all creatures of Tibia but TODAY my life has changed! When I catch this stinking troll!!
+
+Player: chakoya
+Jessica: We have never ever seen one here. Instead of talking about far-off chakoyas, they should concentrate on REAL threats like the Venoreans.
+
+Player: enemies
+Jessica: Well, there is Venore and there are those who work for Venore. They SEEM to lack any interest in here but I know it better! The frightening thing is that we have no idea to what they are up this time.
+
+Player: bye
+Jessica: Good bye.
+
+Jessica: <SARCASTIC> AND GOOD BYE TO YOU TOO!
+
+Player: son
+John the Carpenter: That ne'er-do-well. Who knows what he's currently on about. He's seeems keenly interested in distance fighting, however. Which is the ONE THING I do not have any equipment for.
+
+Player: job
+Kais: Well, as I am quite in a fix currently, my only hope to escape this situation may be to grant you healing or an enhanced blessing if you wish. You must desire SOMETHING, right? Sure you do.
+
+Player: Technomancer
+Kawill: FOOLS! FOOLS! ALL OF THEM! MAY EARTH SWALLOW THEM ALL!
+
+Player: hi (day)
+Kesar's Valet: HAIL THEE!
+
+Player: hi (night)
+Kesar's Valet: QUIET! MIND THE HOUR!
+
+Player: hail emperor / hello emperor / salutations emperor
+Kihil, The Guard: HAIL TO THE EMPEROR!
+
+Player: bye
+Kihil, The Guard: LONG LIVE THE EMPEROR!
+
+Player: hi
+Kihil, The Guard: MIND YOUR MANNERS, FOREIGNER! To address the emperor greet with his title!
+
+Player: job / subject
+King Tibianus: I am your sovereign, King Tibianus III of Thais, and it's my duty to uphold justice and provide guidance for my subjects.
+
+Player: justice
+King Tibianus: I try my best to be just and fair to our citizens. The army and the TBI are a great help in fulfilling this duty.
+
+Player: nutty jack
+Klaus: Errrr.....yes....Nutty Jack, that crazy fish! He was......did I say 'was' I mean IS....errrr...Har har har....a very nice guy. I don't have a clue where he is living at the moment.
+
+Player: treasure map (treasure hunt quest)
+Klaus: This map seems to be very old, not like those fake maps that are all the rage nowadays. I know the spot on the map. It's not far from here. Do you want me to take you there? mission (the shattered isles quest) Hmm, you look like a seasoned seadog. Kill Captain Ray Striker, bring me his lucky pillow as a proof and you are our hero! mission Do you have Striker's pillow? yes You DID it!!! Incredible! Boys, lets have a PAAAAAARTY!!!!
+
+Player: (idle)
+Knight Hykrion: All young aspiring adventurers interested in knighthood come here!
+
+Knight Hykrion: Keep your armor shiny and your blade clean!
+
+Knight Hykrion: CHAAARGE! HA!
+
+Knight Hykrion: Strength and courage! hi Welcome, Simael! I can't convince you anymore to join the rank of a knight, but you will find your own path.
+
+Player: capacity
+Knight Hykrion: Each item has a certain weight. Capacity determines how much resources and other things you can carry around with you. With each character level, you can carry a little bite more. Experienced knights can carry A LOT.
+
+Player: distance
+Knight Hykrion: Although we have some attacks which we can use from a distance, this is not our main strength. Close combat is what we are best at. How about weapons? From the following weapon types, pick one that is NOT usually used by knights: sword, axe or bow?
+
+Player: close
+Knight Hykrion: Very good! Do not fear standing close to the action! As long as you have healing available, you won't fall easily. What about weapons? From the following weapon types, pick one that is NOT usually used by knights: sword, axe or bow?
+
+Player: (any)
+Knight Hykrion: No, no, please stick to the options that I gave you. What is NOT used by knights: sword, axe or bow?
+
+Player: sword
+Knight Hykrion: No, I asked you which weapons we do NOT use. Wielding a sword is quite common for knights, but there're the paladins that use bows. I have another question for you: Would you rather spend you money on sturdy armor or on light robes?
+
+Player: axe
+Knight Hykrion: No, I asked you which weapons we do NOT use. Wielding an axe is quite common for knights, but there're the paladins that use bows. I have another question for you: Would you rather spend you money on sturdy armor or on light robes?
+
+Player: (any)
+Knight Hykrion: You would want to wear that?? No, please answer seriously now, would you buy sturdy armor OR cloth robes to protect yourself?
+
+Player: measurements
+Kroox: UH? No clue what you are talking about, jawoll.
+
+Player: hi
+Kulag, The Guard: LONG LIVE THE KING!
+
+Player: king / tibianus / leader
+Kulag, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
+
+Player: bye
+Kulag, The Guard: LONG LIVE THE KING!
+
+Player: hint
+Lily: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Lily: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: hi
+Lost Traveler: Holy logic, it's YOU!!!
+
+Player: (idle)
+Loui: What are you doing here?? Get away from that hole!
+
+Loui: BEWARE! Beware of that hole!
+
+Loui: STAY AWAY FROM THAT HOLE!
+
+Player: hi / hello
+Loui: BEWARE! Beware of that hole!
+
+Player: hole
+Loui: While looking for something - which I forgot - I found that hole. I went down, even though I had no torch. And then I heard THEM! There must be dozens!
+
+Player: THEM
+Loui: They were so many, EVERYWHERE! I could barely escape alive. I have no clue what THEY were but one more second down there and I'd have been dead!
+
+Player: hint
+Loui: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Loui: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: mission
+Lucius: This is the time of the year where demons try hardest to break through to our world. I try my best to keep them away by spiritually empowering those magical fire basins here in the Temple of Light. ...
+
+Lucius: However, I cannot be everywhere at the same time, and there are ten spots all over Tibia where the layer between our world and the hellish world is especially thin. ...
+
+Lucius: You need to travel to these places within a day after I gave you a magical torch. I summoned a lightbearer's basin there, similar to those here in the temple. ...
+
+Lucius: You have to use the torch on a basin to power its light. Then it will have regain enough energy to burn brightly for another two hours. ...
+
+Lucius: If you look at a basin, you can see how much energy there is still left. As long as all fire basins are burning, no creatures will be able to enter Tibia. ...
+
+Lucius: However, when only one fire basin turns dark and disappears, powerful demons will be unleashed onto this world. ...
+
+Lucius: You have to keep the fire burning for five days, and on the last day the demons will be so weakened that you can dispose of them easily when they come. ...
+
+Lucius: I can give you only one torch which lasts for a day and will then disappear. Also, you can only use your torch ONCE on each basin. ...
+
+Lucius: Thus you need to work together with your fellow Tibians, so that someone can always keep the fire basins burning, on each of the five days. ...
+
+Lucius: I can either give you the torch now - but remember it will only last for a day - or hold onto it for you until your time to be a lightbearer has come. Do you want that torch right now?
+
+Player: yes
+Lucius: Here is your torch, Player. Please try to keep all ten spots burning, and remember you can only use your torch ONCE on each spot. ...
+
+Lucius: And be careful - evil might send its minions there from time to time to keep you from lighting the basin.
+
+Player: lightbearer
+Lucius: This is the time of the year where demons try hardest to break through to our world. I try my best to keep them away by spiritually empowering those magical fire basins here in the Temple of Light. ...
+
+Lucius: However, I cannot be everywhere at the same time, and there are ten spots all over Tibia where the layer between our world and the hellish world is especially thin. ...
+
+Lucius: You need to travel to these places after I gave you a magical torch. I summoned a lightbearer's basin there, similar to those here in the temple. ...
+
+Lucius: You have to use the torch on a basin to power its light. Then it will have regain enough energy to burn brightly for another two hours. ...
+
+Lucius: If you look at a basin, you can see how much energy there is still left. As long as all fire basins are burning, no creatures will be able to enter Tibia. ...
+
+Lucius: However, when only one fire basin turns dark and disappears, powerful demons will be unleashed onto this world. ...
+
+Lucius: You have to keep the fire burning for five days, and on the last day the demons will be so weakened that you can dispose of them easily when they come. ...
+
+Lucius: I can give you only one torch, and you can only use it ONCE on each basin. ...
+
+Lucius: Thus you need to work together with your fellow Tibians, so that someone can always keep the fire basins burning, on each of the five days, on each of the ten spots.
+
+Player: Apocalypse
+Lugri: It is said even speaking its TRUE name will bring total destruction upon you! <takes a step back from you>
+
+Player: yes
+Lugri: Fine. Now you get what you deserve, you fool! DIE IN AGONY!
+
+Player: rumours
+Lurik: Maybe you already heard that we send our dead with a boat on their last journey. A rumour came to my ear that many of the corpses stranded on the small island of Helheim where they walk around as UNDEADS. I wonder if this is true.
+
+Player: fight / slay
+Lynda: It is MY mission to teach, it is YOUR mission to fight!
+
+Player: yes
+Lynda: Oh, that is marvellous. Thank you very much. You know, I just LOVE ice cream! Of course it can't be compared to the love to the gods ...
+
+Lynda: To truly love is pure happiness of heart and soul. <She tells you much about pure love and devotion. You learn a lot for life.>
+
+Player: cult
+Marina: Why would anyone waste his time to worship some anonymous powers if they could worship ME and my beauty?
+
+Player: Striker
+Marina: Phew, who cares about him if you can date a true exotic DJINN!
+
+Player: hi
+Markwin: No! The hornless have reached my city! BODYGUARDS TO ME!
+
+Player: kaplar
+Markwin: I really don't know what it means. But ALL minos say it! Terrible!
+
+Player: secret lab
+Markwin: Hehe - you will never find a way to enter it. The outcast stole the key. You are too weak to conquer it. HARHARHAR.
+
+Player: christine
+Maro: The young female hooman? HER voice makes my teeth tingle. I have made ear plugs, they help.
+
+Player: Bloody Mary
+Maryza: YOU &/$#@!
+
+Player: femur
+Melian: You are probably talking about the FEMOR hills.
+
+Player: hi / hello
+Miles, The Guard: LONG LIVE THE KING!
+
+Player: KING / leader / tibianus
+Miles, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
+
+Player: bye / farewell
+Miles, The Guard: LONG LIVE THE KING
+
+Player: king / tibianus
+Mirabell: King Tibianus III should visit our beautiful isle more often.
+
+Player: (idle)
+Morpel: <whispers> Morpel clean the shop, Morpel wash your hand .. stupid cyclops, jawoll!
+
+Morpel: WEAPONS! ARMOR! HIGHEST QUALITY, JAWOLL!
+
+Morpel: Buy an armor, your enemies might be close!
+
+Morpel: Buy a weapon before your enemy does!
+
+Player: isle
+Mortis: Look around you, it's a fiendish wasteland. There's nothing to it. And I am repairing the very pathway that will lead even deeper into its tainted heart. ...
+
+Mortis: Yet, if it is of use to the inqusition, I will not complain. There IS a demonic presence here that needs to be purged after all.
+
+Player: (idle)
+Mother Of Jack: Oh dear, I can't find anything in here!
+
+Mother Of Jack: There is still some dust on the drawer over there. What were you thinking, Jane?
+
+Mother Of Jack: Jane!
+
+Mother Of Jack: JAAAAACK? EVERYTHING ALRIGHT DOWN THERE?
+
+Player: jack
+Mother Of Jack: JAAACK!! Why won't he come up here? Jack!! No, no I can't believe it.
+
+Player: news
+Muhad: Well, YOU are the news. The desert had told us about a foreigner who would come.
+
+Player: rumours
+Muhad: There have been many rumours about YOU in the past few days. The sons of the desert were curious about who you are and why you would come here.
+
+Player: zoralurk / ferumbras / garsharak / zathroth / QJ-((
+Mysterious Ornate Chest: Accepted.
+
+Player: zoralurk / ferumbras / garsharak / zathroth / QJ-((
+Mysterious Ornate Chest: We already know.
+
+Player: PLNSTRDR
+Mysterious Ornate Chest: Entry edited, investigation restricted. [last access: Farles] ...
+
+Mysterious Ornate Chest: [a] (it) ...
+
+Mysterious Ornate Chest: Creature [thing], undetermined ...
+
+Mysterious Ornate Chest: Sites: I (unknown), II (restricted), III (restricted), IV (unknown), V (restricted), VI (restricted), VI (restricted, duplicate data detected), VIII (restricted), XIV (unknown) ...
+
+Mysterious Ornate Chest: ENTRY RESTRICTED ...
+
+Mysterious Ornate Chest: ENTRY RESTRICTED ...
+
+Mysterious Ornate Chest: Prospect: significant ...
+
+Mysterious Ornate Chest: ENTRY RESTRICTED ...
+
+Mysterious Ornate Chest: Specimen 14: [DA, DB, DC, DD]: (restricted) [CA, CB, CC, CD]: (unknown), [VA, VB, VC, VD] (restricted) ...
+
+Mysterious Ornate Chest: Specimen 15: [AA, AB, AC, AD]: (restricted) ...
+
+Mysterious Ornate Chest: Specimen 16: [AA, AB, AC, AD]: (unknown) ...
+
+Mysterious Ornate Chest: ENTRY RESTRICTED ...
+
+Mysterious Ornate Chest: ENTRY DELETED ...
+
+Mysterious Ornate Chest: ENTRY RESTRICTED
+
+Player: malor
+Nah'Bob: Now THAT djnn really means stress. Too bad that doofus of an orc king freed him from his prison in the lamp. Gabel should have gotten rid of Malor for good when had the chance to do so.
+
+Player: hi (Bank Robbery MWC)
+Naji: HELP! We have been robbed! I can't give you any gold until the robber has been brought to justice or we have received a compensation from the king. I think the robbers ran towards the Ancient Temple.
+
+Player: hi (Bank Robbery MWC - having Bag with Stolen Gold)
+Naji: I'm sorry, but we have been robb- hey, what's that bag? Have you hunted down the bank robbers?
+
+Player: job
+Nathaniel: I am a fan and want to inform other Tibians about the BEST colour to join, the best wizard, the great CAUSE! NATURE! Wizard Fern, whose colour is green of course!
+
+Player: yes
+Navigator: I was once captain of a ship, the Skyflare. We were traders for King Tibianus and on our way home when we got into a storm. We fought hard to escape the cold grip of the sea. ...
+
+Navigator: I myself did what I could to navigate the Skyflare out of this mess. They depended on me. Me, the navigator. And I succeeded. ...
+
+Navigator: However, when the sea calmed down and the rain was finally gone, we recognised that our ship wouldn't move. It wasn't my fault. ...
+
+Navigator: There was a strong gale and we could already see this island on the horizon. There were seagulls all around the Skyflare to lead us to dry land. But the ship did not move a single inch. It was NOT my fault. ...
+
+Navigator: We dived under the bow and saw that it was stuck right on the tip of a sharp rock. The world below us was treacherous, we could see large underwater mountains and a labyrinthine system of caves and holes. ...
+
+Navigator: Some of my men panicked and hijacked the dinghies to reach the island, others tried to swim. I remained on the ship. It was not my FAULT. It was not. ...
+
+Navigator: Do you have enough, can I stop?
+
+Player: yes
+Navigator: Of course you do. And they did, too. They obeyed me. They adored me. They followed me. ...
+
+Navigator: I learnt everything about their culture, their life, their goals and their problems. I found out about vile insect-like creatures inhabiting the surface of the island. And their waiting for the return of Qjell. ...
+
+Navigator: I practically rewrote their history. I WAS THE SECOND COMING. I WAS QJELL. I, THE NAVIGATOR. ...
+
+Navigator: And I navigated them out of their miserable lives. Away from their petty interests. I led them to a greater purpose - to form chaos out of order, to bring back the storm to the seas and to make THINGS MOVE. Do you want to hear the rest as well?
+
+Player: no
+Navigator: Hahaaaahahaa... YOU are not even WORTHY!
+
+Player: yes
+Navigator: I control EVERYTHING from this room, navigating the fate of this land for more than a century now. Can you see all these funnels? My voice travels through them and throughout everything down here! ...
+
+Navigator: The stones on the beach? The trader up there? That was ME ALL THE TIME! I lured YOU into creating all this chaos up there and down here! ...
+
+Navigator: You thought you could choose sides? Think again! I nearly led you into the destruction of two species! ME, THE NAVIGATOR! I CONTROL YOU, I OWN YOU! QJELL AFAR GOU JEY!
+
+Player: helmet
+Navigator: NAAAAARGH. If you promise to leave me alone and NOT TO TELL MY SECRET to anyone - you can have one. ...
+
+Navigator: NO! Not the one I'm wearing. I am BOUND to this device. This suit has granted me a longer life. However, once you have spent a certain time with this - there is no turning back if you know what I mean. ...
+
+Navigator: The armor will merge with your very body. Holding you captive, holding your life in its hands like a ransom. ...
+
+Navigator: Using Deepling craft and various components from down here, I created several spare helmets - just in case this one gets damaged. If you return that small golden anchor to me, you can have one. Will you?
+
+Player: yes
+Navigator: Then take this one. And remember: DO NOT TELL ANYONE ABOUT ME OR ANYTHING YOU HAVE HEARD HERE TODAY.
+
+Player: helmet
+Navigator: I am BOUND to this device. This suit has granted me a longer life. However, once you have spent a certain time with this - there is no turning back if you know what I mean. ...
+
+Navigator: The armor will merge with your very body. Holding you captive, holding your life in its hands like a ransom. ...
+
+Navigator: Using Deepling craft and various components from down here, I created several spare helmets - just in case this one gets damaged.
+
+Player: (yes)
+Neill: Indeed! As you will have to choose your vocation soon, this festival will help you decide by showing you each vocation's unique style and techniques. ...
+
+Neill: In each tent, a combat trainer will show you his vocation's special fighting technique. So you can find out which vocation suits you best! ...
+
+Neill: Don't worry, it's all for fun, just to show you the principle, and won't hurt. OK?
+
+Player: nalus murtu
+Nemal: Thank you! NALUS MURTUUU! ... I can see again! To show you, how grateful I am, I'll give you a key. Be wise when using it. I can't tell you, where it matches, but ... take good care, it is useless without mental powers!
+
+Player: queen / eloise / cat
+Noodles: GRRRRRRR! WOOOOOOF! WOOOOOF! WOOOOOF!
+
+Player: pass
+Noozer: Yes, yes. Or wait - why do you want to.. ah what does it matter. So you want to get through these caves, fine. But be warned! ...
+
+Noozer: ...wait a second, I lost it. What was I going to say again? Ah yes - DANGEROUS! These. Caves. Are. Dangerous. No way you get out alive. Ever. Again. ...
+
+Noozer: Also you should not disturb those... people down there. Yeah. They... hm, wait, they - who are they again? Hey! Who are you? Are you talking to me?! Ah, ah... oh yes, I remember. ...
+
+Noozer: Wait - I am the guardian here, yes! The keeper of... something... or another, yes, I... guard this place. With my life. Don't I? Of course! ...
+
+Noozer: Is, er... this the moment where I should try to... stop you? Yes? No? Ah, you know what - you go down there, those guys are angry as dung anyway. Try your luck, return to me when you're done. If you still can. Or not.
+
+Player: thank you
+Norma: Oh no, I have to thank YOU for being here!
+
+Player: mission
+Norman The Foreman: Looking for some fancy adventure? I heard the Agency of Venorean Interest Negotiators always need adventurers willin' to help ensure the safety o' Venore and its ventures. ...
+
+Norman The Foreman: The AVIN office is in the harbour building, second floor. Ask for Uncle.
+
+Player: yes
+Norman The Foreman: Good. The charlatan outpost is at the southern production site; I put up a warning sign. Enter their cave through the hidden mud hole, next to the ropespot. ...
+
+Norman The Foreman: Inside, kill five little charlatans so they get the message to STAY OFF our property. Come back when you've succeeded.
+
+Player: shadow pupil
+Omrabas: PSST! Keep your voice down, will you? Strange things they do, and - well, just be careful mentioning them, and watch your back around them.
+
+Player: name
+Onfroi: They call me TRAVELLER! Yehees! Oh, I mean, no - NO! They call me Onfroi. I am Onfroi, the wizard. Pleased to meet you, traveller!
+
+Player: hi
+Opticorder Forge: State the meaning of walls VB and VC of testimony.
+
+Player: monster
+Oswald: AHHHH!!! WHERE??? WHERE???
+
+Player: rumour / gossip / news
+Oswald: You know a rumour? TELL ME! TELL ME! TELL ME!
+
+Player: sword
+Paladin Narai: Uhhh... no. Although we CAN use swords, we're not that good at it, so you should stick to bows and throwing weapons. One more question! Which magic is exclusively for paladins? Is it death, holy or fire?
+
+Player: Jail/Cell
+Partos: You mean this is a JAIL? They told me it's the finest hotel in town! THAT explains the lousy room service!
+
+Player: Eclesius
+Partos: Yeah sure, I go out with him all the time... NOT.
+
+Player: marlin
+Pemaret: WOW! You have a marlin!! I could make a nice decoration for your wall from it. May I have it?
+
+Player: cult
+Percy Silverhand: Nonsense! I do not want to hear these old women's tales again! Although some sinister cult would perfectly fit those natives here, there IS no such a thing as a secret cult.
+
+Player: yes
+Pig: Uh. Uhm. That was ... unskilled. Sorry, you have to learn MUCH about kissing.
+
+Player: yes
+Pig: Uhhh. Well, that was ... promising. But you are FAR from being the best kisser in the land.
+
+Player: yes
+Pig: Mhmm. Nice try. You definitely have some experience but you should improve your skill DRASTICALLY.
+
+Player: yes
+Pig: Mhmmm. Oh my, you have learnt a few tricks indeed. But it takes more to become the best kisser in the world. FAR more.
+
+Player: yes
+Pig: Mhm Uhhh. Not bad, not bad at all! But you can still improve your skill a LOT.
+
+Player: yes
+Pig: Ahhh. That was really nice. But you STILL lack the refinement of perfection.
+
+Player: femur
+Pino: You are probably talking about the FEMOR hills.
+
+Player: fire devil
+Pydar: They mock the great flame with their sheer existence. BLAST THEM ALL! Jawoll!
+
+Player: Job
+Pyro Peter: Job? JOB? This is not a simple job, I'm here to WARN people, to HELP the citizens of Venore! They just won't listen to me...
+
+Player: News
+Pyro Peter: FIRE!! All of Shadowthorn is in flames! ...
+
+Pyro Peter: With all their overseers dead and the legions of followers in the era severely diminished, the firestarters got away. The elves BURN!! But these are no ordinary fires!! ...
+
+Pyro Peter: The fires lit by the firestarters are fuelled by their hate, their intolerance and anger - only water from the bog can extinguish such mayhem. ...
+
+Pyro Peter: We must go there and fight the fire to redeem ourselves and save Venore from the ever devastating flames!
+
+Player: Hi
+Pythius the Rotten: I AWAITED YOU!
+
+Player: Awaited
+Pythius the Rotten: I HAVE A MISSION FOR YOU BUT YOU NEED TO DIE FIRST AND RETURN AS AN UNDEAD CREATURE. COME BACK TO ME WHEN YOU ACHIEVED THIS GOAL.
+
+Player: Undead
+Pythius the Rotten: BOON AND BANE. I HAVE CHOSEN THIS LIFE VOLUNTARILY AND NEVER REGRETTED IT. MY TREASURE IS GROWING BIGGER EACH DAY.
+
+Player: Treasure
+Pythius the Rotten: LIKE MY TREASURE? WANNA PICK SOMETHING OUT OF IT?
+
+Player: Job
+Pythius the Rotten: INTERESTING QUESTION. WHAT IS MY JOB? I'D SAY I'M AN AMBASSADOR OF GREED!
+
+Player: Name
+Pythius the Rotten: ONCE I WAS PYTHIUS THE IGNITER, BUT NOWADAYS PEOPLE CALL ME PYTHIUS THE ROTTEN.
+
+Player: Dwarf
+Pythius the Rotten: THEY LEAVE ME ALONE AND I LEAVE THEM ALONE.....WELL, EXCEPT THIS ONE OLD DWARF WHO TUMBLED INTO MY CAVE LAST WEEK. HE SEEMED TO BE OLD. I BET HE DIDN'T EVEN SEE WHAT KILLED HIM. HAHAHAHA!!
+
+Player: Beregar/Kazordoon
+Pythius the Rotten: DWARVES. THEY HIDE UNDER THEIR MOUNTAINS AND THINK THEY ARE SAFE THERE.
+
+Player: Dragon
+Pythius the Rotten: OUR RACE BECAME WEAK OVER THE TIME. I MADE A STEP INTO A BRIGHT FUTURE THAT I'D RECOMMEND TO EVERY OTHER DRAGON. NOWADAYS THEY ARE JUST FATSTOCK. I ABOMINATE THEM!!
+
+Player: Yalahar
+Pythius the Rotten: I HAVE SEEN THE GLANCE OF THIS CITY BACK IN THE DAYS AND I WATCHED THEM DOING THEIR RESEARCH. IT WAS FUNNY TO SEE THAT THEY COULDN'T HANDLE WHAT THEY EVOKED. I TOOK THEIR TREASURES AFTER THEY SLAUGHTERED THEMSELVES. HAHAHA!
+
+Player: Human
+Pythius the Rotten: FLESHY LITTLE BEINGS. I LIKE THEIR GREED! HOW ABOUT YOUR GREED? ARE YOU INTERESTED IN SOMETHING OUT OF MY TREASURE?
+
+Player: Axe/Sword/Club/Weapon
+Pythius the Rotten: THERE IS NO WEAPON IN TIBIA THAT COULD HARM ME.
+
+Player: Knight
+Pythius the Rotten: WONDERFUL, WOULD YOU BE SO KIND AND SCRAPE OFF THAT PIECE OF FLESH FROM MY TOE! MUAHAHAHA!!
+
+Player: Druid/Sorcerer
+Pythius the Rotten: SHOOT AT ME WHATEVER YOU WANT AND WAKE ME UP WHEN YOU ARE DONE.
+
+Player: Paladin
+Pythius the Rotten: CAN I BORROW AN ARROW OR BOLT FROM YOU? THERE IS A NASTY LITTLE PIECE OF DWARF STUCK BETWEEN MY TEETH!
+
+Player: Kill you
+Pythius the Rotten: DON'T KNOW IF YOU REALISED BUT YOU CAN'T KILL ME. I'M ALREADY DEAD.....AND BE CAREFUL HOW YOU TALK TO ME, OTHERWISE I MAY KILL YOU!
+
+Player: Carlin
+Pythius the Rotten: AHHHHH, THE BATTLE OF CARLIN. I CAN STILL SMELL THE BLOOD. ORK BLOOD, HUMAN BLOOD.....WHAT A FEAST. I GET HUNGRY WHEN I THINK OF THOSE DAYS.
+
+Player: Thais
+Pythius the Rotten: THE HOME OF YOUR LITTLE KINGS. HOW PATHETIC.
+
+Player: Transfer
+Pythius the Rotten: HAVE YOU SEEN THESE LEGENDARY ITEMS BACK THERE? WHO COULD REFUSE THE CHANCE OF OBTAINING ONE?!? SO WHAT IS YOUR ANSWER?
+
+Player: Dead
+Pythius the Rotten: I COULD PUT AN END TO YOUR ABSURD LITTLE LIFE. YOU'D SERVE ME AFTER DEATH AND YOU MAY HAVE SOMETHING OUT OF MY TREASURE.
+
+Player: Exchange
+Pythius the Rotten: EVERYTHING YOU CARRY WITH YOU CAN ALSO BE FOUND IN MY TREASURE. BRING ME SOMETHING I DON'T OWN!!!
+
+Player: Greed
+Pythius the Rotten: NEVER UNDERESTIMATE THE POWER OF GREED. PEOPLE KILL OUT OF GREED, THEY GAIN POWER BECAUSE OF GREED AND SOME EVEN CONTINUE THEIR LIVES AFTER DEATH BECAUSE OF GREED.
+
+Player: King
+Pythius the Rotten: I'VE SEEN MANY KINGS COME AND GO. THEY ALL THINK THEY RULE TIBIA BUT HAVE NO IDEA....HAHAHAHA!!
+
+Player: How are you?
+Pythius the Rotten: THIS IS MY SECRET AND WILL NEVER, EVER BE REVEALED TO A LIVING BEING.
+
+Player: Offer
+Pythius the Rotten: I GRANT YOU ACCESS TO THE DUNGEON IN THE NORTH. YOU'LL FIND SOME OF MY LIVING BROTHERS THERE....BUT.....EVERY TIME YOU WANT TO ENTER YOU HAVE TO GIVE ME SOMETHING PRECIOUS. ALRIGHT?
+
+Player: Tibia
+Pythius the Rotten: I'VE SEEN THIS WHOLE CONTINENT, EVEN THOSE PLACES YOU DON'T KNOW THEY EXIST. I FOUGHT WARS FOR DIFFERENT RACES AND I HAVE SEEN CIVILISATIONS RISE AND FALL.
+
+Player: Bye
+Pythius the Rotten: GOODBYE, AND MAY GREED BE ALWAYS IN YOUR SMALL BEATING HEART. HAHAHA!
+
+Player: Hi
+Pythius the Rotten: I AWAITED YOU!
+
+Player: Mission
+Pythius the Rotten: I HAVE A MISSION FOR YOU BUT YOU NEED TO DIE FIRST AND RETURN AS AN UNDEAD CREATURE. COME BACK TO ME WHEN YOU ACHIEVED THIS GOAL.
+
+Player: Undead
+Pythius the Rotten: BOON D BANE. I HAVE CHOSEN THIS LIFE VOLUNTARILLY AND I NEVER REGRET IT. MY TREASURE IS GROWING BIGGER EACH DAY.
+
+Player: Treasure
+Pythius the Rotten: LIKE MY TREASURE? WANNA PICK SOMETHING OUT OF IT?
+
+Player: Yes
+Pythius the Rotten: HAHAHA, WHO WOULD SAY SOMETHING ELSE?....BUT....NOTHING'S FOR FREE AND SO WASN'T THE TREASURE BEHIND ME. ...
+
+Pythius the Rotten: BRING ME SOMETHING VALUABLE IN EXCHANGE. SOMETHING YOU THINK I'D LIKE AND THEN.....HAHAHAHA......WE CAN CONTINUE OUR SMALL CONVERSATION.
+
+Pythius the Rotten: EVERYTHING YOU CARRY WITH YOU CAN ALSO BE FOUND IN MY TREASURE. BRING ME SOMETHING I DON'T OWN!!!
+
+Player: Offer
+Pythius the Rotten: I GRANT YOU ACCESS TO THE DUNGEON IN THE NORTH. YOU'LL FIND SOME OF MY LIVING BROTHERS THERE....BUT.....EVERY TIME YOU WANT TO ENTER YOU HAVE TO GIVE ME SOMETHING PRECIOUS. ALRIGHT?
+
+Player: Yes
+Pythius the Rotten: AS YOU WISH. WHAT DO YOU HAVE TO OFFER?
+
+Player: Golden mug
+Pythius the Rotten: I LIKE THAT AND GRANT YOU ACCESS TO THE DUNGEON IN THE NORTH FOR THE NEXT FEW MINUTES. COME BACK ANYTIME AND BRING ME MORE TREASURES.
+
+Player: Hi
+Pythius the Rotten: I AWAITED YOU!
+
+Player: Offer
+Pythius the Rotten: I GRANT YOU ACCESS TO THE DUNGEON IN THE NORTH. YOU'LL FIND SOME OF MY LIVING BROTHERS THERE....BUT.....EVERY TIME YOU WANT TO ENTER YOU HAVE TO GIVE ME SOMETHING PRECIOUS. ALRIGHT?
+
+Player: Random word
+Pythius the Rotten: THIS IS NOT WORTH BEING PART OF MY TREASURE! BRING ME SOMETHING ELSE.
+
+Player: Treasure
+Pythius the Rotten: LIKE MY TREASURE? WANNA PICK SOMETHING OUT OF IT?
+
+Player: Random word
+Pythius the Rotten: HAVE YOU SEEN THESE LEGENDARY ITEMS BACK THERE? WHO COULD REFUSE THE CHANCE OF OBTAINING ONE?!? SO WHAT IS YOUR ANSWER?
+
+Player: Dragon scale legs
+Pythius the Rotten: YOU LIKE THEM? WHAT WOULD YOU GIVE ME IN EXCHANGE?
+
+Player: Random Word
+Pythius the Rotten: YOUR OFFER IS UNACCEPTABLE. I SHOULD KILL YOU FOR THIS INFAMY.
+
+Player: yes
+Rafzan: Oh, so thankful me be! Use this container in the correct order on the following: ...
+
+Rafzan: First, FRESH snail slime from a slain snail. Any snail you find will do. You will have to wait a little before its corpse will allow you to gather the slime. ...
+
+Rafzan: Second, add a sample black swamp gas that can be found in some remote areas of the swamp. ...
+
+Rafzan: Third, the fart of a rotworm. Rotworms eat the strangest things and their farts have a special ... odour. Use the container on a living rotworm. With some luck you catch a fart. ...
+
+Rafzan: Last, you need to use the container on mouldy cheese, this is what ratmen love most! You might find some in possession of goblins. If you are done, return the container to me.
+
+Player: busy
+Rafzan: Ratmen always bickering and fighting each other. Keeps them occupied from stealing me stuff and makes them want to buy better stuff from me than the other ratmen have. ...
+
+Rafzan: Me need you to ... place some stuff of hostile rat clan in rat cave to make them angry. ...
+
+Rafzan: But ratmen are STRONG and DANGEROUS!!! (Not recommended for levels below 35) Better not go alone when you are inexperienced. Are you helping poor me?
+
+Player: destroy
+Rafzan: Ratmen often make deal with poor me. Sad story short, they always make profit, me never. If stuff they buy is destroyed, they have to buy new stuff. I need you to destroy stuff they bought from me. ...
+
+Rafzan: But ratmen are STRONG and DANGEROUS!!! (Not recommended for levels below 35) Better not go alone when you are inexperienced. Are you helping poor me?
+
+Player: yes
+Rafzan: Oh, so thankful me be! You must kill five of this horrible goblin hut gnawers to teach them a lesson! CAN YOU HEAR ME MARSH STALKERS?! SWEET GOBLIN REVENGE IS ON ITS WAY!
+
+Player: truth / danger
+Rapanaio: When I found that ancient text, warning of the Isle of Evil, I tried to tell the world about it. But the forces of evil discovered my plans! They made people assume it was just another tale for children. ...
+
+Rapanaio: THEY distributed a book of children's bedtime stories with a copy of the text in it to undermine my message! Their despicable ruse worked and they made a laughing stock of me! Of course I knew it was a plot to discredit me. ...
+
+Rapanaio: On the other hand, it was obvious that THEY now knew about me and the text I possessed. I went into hiding in fear of my life! THEY have tried to assassinate me! I must be constantly vigilant!
+
+Player: text
+Rapanaio: You'll find it in one of my chests. It's only a copy of course. The original is safely hidden! As much as THEY claim it's only a children's tale I know it's the truth.
+
+Player: children's tale
+Rapanaio: Bah, THEY forged a children's book that made my source material look like some part of it. Of course it is an evil plot to prevent me from locating the isle and slaying its dark master. ...
+
+Rapanaio: Or rather, sending some other hero who will fight the ultimate evil in its own lair on my behalf. Someone has to stay and fight the fight on the mainland, of course.
+
+Player: assassinate
+Rapanaio: My life is no longer safe. The first attempt on my life was at a party thrown by a fellow inventor. THEY put poison in one of the twenty pints of beer I drank that night. ...
+
+Rapanaio: The following morning I was close to death. Only my strong dwarven constitution stood between me and the grim reaper that day. ...
+
+Rapanaio: In their next attempt, assassins tinkered with the stairs in front of my favourite tavern. When I was leaving the tavern after a night with my friends I tripped and fell, nearly breaking my neck! ...
+
+Rapanaio: Only my catlike reflexes saved my life that time. Well, my reflexes and my beard that absorbed some of the force of the fall. ...
+
+Rapanaio: Other attempts on my life followed! Like the object that was hurled at me while I was singing and dancing on the bar while at a party. ...
+
+Rapanaio: And the list goes on and on. I know that I am in grave danger and I will not lie to you about the danger you will be in when THEY learn about you.
+
+Player: THEY
+Rapanaio: THEY are the servants of evil. THEY are everywhere and could be anyone. In fact, it has crossed my mind that most of THEM don't know who THEY are. Uhm, well, I mean THEY don't even know each other. The lure of evil is powerful. ...
+
+Rapanaio: Most people are not as strong as you and me and easily give in to the lure of wealth and power that evil promises. ...
+
+Rapanaio: Uhm, what was that flicker in your eyes? Well, anyway, Evil recruits its minions from all weak willed creatures so you can't be sure who is your enemy. ...
+
+Rapanaio: I advise you to be cautious. Better safe than sorry. Or dead.
+
+Player: inventor
+Rapanaio: <lowers his voice> Sorry, that information is strictly classified. THEY might capture and torture you to find out what you know.
+
+Player: Isle of Evil
+Rapanaio: Psht, not that loud! But as your memory is so short, I will tell you of my researches once again! ...
+
+Rapanaio: After constructing an evil-o-meter I set about finding places where evil was concentrated. It reacted as expected to places of great evil like the Ghostlands, the Plains of Havoc and the Edron ruins. ...
+
+Rapanaio: But then it found somewhere new. My surprise knew no bounds when it showed a remote isle previously thought to be uninhabited. I am sure that something evil lurks there. Some unspeakable horror waiting to kill and devour unsuspecting travellers. ...
+
+Rapanaio: I could not let that happen! So I did some research and as I was about to give up I stumbled upon an ancient text that told of the Isle of Evil! ...
+
+Rapanaio: Immediately, the nature of the threat I had discovered became alarmingly clear! All I needed was a hero and some transport. But would they listen?! NO! They laughed at me. ...
+
+Rapanaio: Well, that was where you stepped in. Now we have joined forces to save the world!
+
+Player: resistance
+Rebel: LIVE ZE REZIZTANZE, DIE FOR ZE CAUZE! BOLDLY WE ZTAND, TO PREVAIL HAND IN HAND!
+
+Player: Ferumbras
+Red Lilly: Don't mention HIM in my house you fool. You call evil and mayhem upon us.
+
+Player: poem
+Rehon: Get me out of here NOW!! And don't you dare to complain about the rhyme!
+
+Player: squirrel / eat / cheese / ham
+Richard: Don't talk to ME about squirrels! <shudders> Had to live off them the first days, when they were the only thing to go into my self-made acorn traps. Nasty. ...
+
+Richard: Can't get rid of horrible dreams of giant squirrels hunting me, now.
+
+Player: dawnport
+Richard: This island here's not too bad. Once I didn't have to live off squirrels, it became quite enjoyable. Nasty things live underground though, so take care where you tread and ALWAYS have a rope with you! ...
+
+Richard: Some of the others have been down there, didn't come out without several deep wounds each time. Mr Morris however is quite keen to find out more about the strange magical energies and the monsters deep down.
+
+Player: hi
+Riddler: Player! HEHEHEHE! Another fool visits the tower! Excellent!
+
+Player: yes
+Riddler: FOOL! Now you're doomed! But well ... So be it! Let's start out with the Seal of Knowledge and the first question: What name did the necromant king choose for himself?
+
+Player: goshnar
+Riddler: HOHO! You have learned your lesson well. Question number two then: Who or what is the feared Hugo?
+
+Player: demonbunny
+Riddler: HOHO! Right again. All right. The final question of the first seal: Who was the first warrior to follow the path of the Mooh'Tah?
+
+Player: Tha'kull
+Riddler: HOHO! Lucky you. You have passed the first seal! So ... would you like to continue with the Seal of the Mind?
+
+Player: old
+Riddler: ARGH! You did it again! Well all right. Do you wish to break the Seal of Madness?
+
+Player: yes
+Riddler: GOOD! So I will get you at last. Answer this: What is your favourite colour?
+
+Player: green
+Riddler: UHM UH OH ... How could you guess that? Are you mad??? All right. Question number two: What is the opposite?
+
+Player: none
+Riddler: NO! NO! NO! That can't be true. You're not only mad, you are a complete idiot! Ah well. Here is the last question: What is 1 plus 1?
+
+Player: any number
+Riddler: WRONG!
+
+Riddler: NO! NO! NO! That can't be true. You're not only mad, you are a complete idiot! Ah well. Here is the last question: What is 1 plus 1?
+
+Player: number from a prisoner, see quest log
+Riddler: DAMN YOUUUUUUUUUUUUUUUUUUUUUU!
+
+Player: bye
+Riddler: HEHEHE! I knew you don't have the stomach.
+
+Riddler: COWARD! CHICKEN! HEHEHEHE!
+
+Player: General/Army
+Robin: These kids call themselves an army... In the old times we had a REAL army, I tell ya...
+
+Player: stranded
+Robson: I was on a steamship to sell some wares in Edron. On the boat was a drunken human mage who all of a sudden thought he could speed up our trip by conjuring some winds. ...
+
+Robson: Not that a steamship would have sails or that something like this would make sense in an underground cavern! But such thoughts did not occur to that drunken fool and soon we had some veritable STORM in our underground cave ! ...
+
+Robson: The storm tore the steamship apart and I tied myself to a plank and drifted in the water for what felt like days. Then I finally reached that isle here. ...
+
+Robson: I fought the inhabitants of the isle and my axe earned me some respect I guess. At least they no longer bothered me over here. Using some wreckage, I built my first hut here. ...
+
+Robson: I was living on fish, mushrooms and some hunted meat. My only light source were some luminescent mushrooms. ...
+
+Robson: First I thought I could not stand it for a month but when I was eventually found by an exploring steamship, I felt that I no longer wanted to leave at all. ...
+
+Robson: Of course I ordered some resources that I had missed all those years. I also ordered building materials to build a real hut. And guess what happened? ...
+
+Robson: They sent me PARCELS! I mean I was lost for years, all that I wanted was some decent wood to have a real home and they sent me PARCELS! ...
+
+Robson: What did they think I was going to do with them? Build a castle or what? However, the next shipment brought me the correct material and I could finally build a decent home. ...
+
+Robson: By the way, if you need a parcel just ask me. I have to get rid of a few thousand.
+
+Player: job
+Rock Steady: Besides standing around here at the beach all day? Well, we actually spend a lot of time here at the beach. You could say ALL DAY. AND NOW LEAVE ME ALONE.
+
+Player: collect
+Rock Steady: I collect everything that reflects light in strange ways. However, I am bored by my collection. And there wasn't anything new to add for years. ...
+
+Rock Steady: I like pearls for example - but I have already enough. I also like shells - but I can't even count how many I already own. ...
+
+Rock Steady: If you find anything of REAL VALUE - bring it to me. I will reward you well. You don't already have something for me by chance?
+
+Player: first visitor
+Rock in a Hard Place: Bah, ask one of the pebbles on the beach about that. What I can tell you is that YOU are not the first.
+
+Player: job
+Roderick: I am ambassador of our beloved king, Tibianus III.
+
+Player: story [repeated]
+Roswitha: They say Alaistar Stanton married a minotaur princess and brought their child with him when the minotaurs would not accept a human as king. Can you believe that? <shakes head>
+
+Roswitha: Did you know? That friendly Mr Barnabas Dee is a soothsayer who's foretold many things for this city! If only he had foretold Mr Brandon's death, maybe my poor husband would not have sailed. <shakes head>
+
+Roswitha: Some say glooth does all kinds of strange things to you. Some claim it made them light as air and they could fly! Though I guess that's a whiff of peppermoon pollen too many, poor souls. Still, who knows. Try a pint of glooth for yourself! <winks>
+
+Roswitha: No one has ever seen Azalea's face, she's always hooded. Some say she is hideously disfigured from a curse that she can't lift, always searching for a cure and that's why she became a druid and doesn't dare show her face, poor thing!
+
+Roswitha: There's a phantom of the old opera, underneath the sewers. It stalks the city at night. Some of my customers have seen it! They say it looks like a horrible beast, moaning and roaring! <shudders>
+
+Roswitha: You know they say some poor souls have been captured and made to work inside metal bodies and that's how gargoyles were made? I hope Mr Brandon's soul was not captured by one of those fellows!
+
+Roswitha: Some say Rathleton was built on the ruins of an ancient order, some say, on a demonic site, and that the mists arising are the souls of the dead ... <shudders> I don't want to believe THAT, though!
+
+Roswitha: I have been told that a weird scientist blew up the old factory to run from his debts, and that he's now hiding in one of your towns, gambling and drinking. For shame!
+
+Roswitha: Flint used to be the city watch captain. But when he lost his best friend in a battle against the minotaurs, he resigned and became a blacksmith instead. Poor man!
+
+Roswitha: My grandfather used to tell me the mists around this isle were the breath of sleeping dragons, who only breathe out every ten years. Now that would be a sight to see!
+
+Player: mission
+Rotem Valos: Our mission is to support young adventurers on their way to glory. By the way, 'mission' is a word you will use quite often in Tibia. All over the world, there are people that might have a mission for you. ...
+
+Rotem Valos: Talking to the inhabitants is the best way to learn what bothers them. They will often respond if you simply ask for a mission. ... Certain missions will require some experience, so sometimes you will have to return later on. ...
+
+Rotem Valos: You might consider working for the wizard Eclesius who asked us for some talented help. ... He created a magic portal on the beach outside our headquarters. USE it to instantly travel to his home. Of course there are other things you can do, too.
+
+Player: death
+Rotem Valos: Death is always a threat. When you are resurrected in the temple, you will find you might have lost quite a lot of your equipment. You might want to try to retrieve the more valuable stuff from your dead body. ...
+
+Rotem Valos: Your dead body will take a while before it decays, and can be looted - by anyone. But before you run off into danger, remember: You will need a ROPE or a shovel to reach certain spots. ...
+
+Rotem Valos: It is likely that you lost your rope when you died, so you might need to replace it. For this purpose, it might be a good idea to have stashed some basic equipment in your depot. ...
+
+Rotem Valos: This will spare you valuable time when you hurry back to your corpse. Remember that each city has its own depot! ...
+
+Rotem Valos: Another thing that you can do to prevent some of your losses in case of death, is to acquire blessings at certain temples.
+
+Player: no
+Rotem Valos: OK, then not.
+
+Player: Hunters/Hunt
+Rottin Wood: Aaaaah the thrill of the hunt. The wind in the forest making the trees talk to you. The glistening water of the rivers and lakes... you cannot get enough of it, can you? OUCH! Fir cone... again... I hate this... ah, nevermind.
+
+Player: News
+Rottin Wood: Some random fool came here and started getting on everyone's nerves. Oh wait, you're HERE. Hmph.
+
+Player: no / ready
+Salbra: (no) Hmm. But you really need to hear this: (ready) Lovely! There are two types of casting magic: spells and runes. Runes are magic spells stored in special stones. To cast a spell, you need to have learned the spell first. To use a rune, you only need to use the rune. ...
+
+Salbra: But only DRUIDS and SORCERERS have a high enough MAGIC LEVEL to use spells or runes properly ...
+
+Salbra: Now, spells, they have to be learned before you can use them. Later on, you will have to find your specific spell teachers, but for now, I know some fine spells to teach you the principle. Ready?
+
+Player: no
+Salbra: Aww, come on. You need to hear this. Your new spell can be cast anytime by saying 'exevo dis flam hur'. But I can show you a much more convenient way. First, open your spell list in the general controls menu, OK?
+
+Player: no
+Salbra: No isn't the answer I want to hear. Next, please select the spell 'Practise fire wave'. OK?
+
+Player: no
+Salbra: No isn't the answer I wanted to hear. Well then, drag and drop this spell onto a hotkey on the quickbar that's underneath your game window. OK?
+
+Player: ready
+Salbra: Your new spell can be cast anytime by saying 'exevo dis flam hur'. But I can show you a much more convenient way. First, open your spell list in the general controls menu, OK?
+
+Player: ok
+Salbra: Good. Next, please select the spell 'Practise fire wave'. OK?
+
+Player: ok
+Salbra: Good. Now, drag and drop this spell onto a hotkey on the quickbar that's underneath your game window. OK?
+
+Player: no
+Salbra: Come on, we're almost done. You see that typiong a spell works also. And now, please select the spell 'exura dis' in your spell list in the general controls menu, OK?
+
+Player: no
+Salbra: We're almost done, stay with me please. Drag and drop the spell onto a hotkey on the quickbar that's underneath your game window, OK?
+
+Player: no
+Salbra: I didn't hear that! BAM! Now heal yourself! ...
+
+Salbra: If it doesn't work, please make sure you have the right settings and enough mana. There's a mana potion in the chest, just in case you need it. ...
+
+Salbra: It worked, yes?
+
+Player: no
+Salbra: Not? But now you can of course use some healing spells on OTHERS, too. But keep in mind, ONLY A DRUID can HEAL OTHERS with a SPELL. Why would you want this? Well, other players will want to have you in their party if you are a druid! ...
+
+Salbra: Now that was about all I had to tell you. Please proceed east and then north through the Gate of Initiates! ...
+
+Salbra: Good luck, and find a vocation that suits your style at the 4 vocation trainers: Sorcerer Estrella, Knight Hykrion, Druid Yandur and Paladin Narai! ...
+
+Salbra: One more thing: you can always skip this tutorial by saying 'skip tutorial' to any of us here at this festival. Good bye!
+
+Player: ready
+Salbra: That's easy, you have just learned 'exura dis', an easy healing spell. Now, type in the spell's magic words, 'exura dis', in your chatbar, OK?
+
+Player: ok
+Salbra: Great, you see that works too! And now please select the spell 'exura dis' in your spell list in the general controls menu, OK?
+
+Player: ok
+Salbra: Great, now please drag and drop the spell onto a hotkey on the quickbar that's underneath your game window, OK?
+
+Player: ok
+Salbra: BAM! Now heal yourself! ...
+
+Salbra: If it doesn't work, please make sure you have the right settings and enough mana. There's a mana potion in the chest, just in case you need it. ...
+
+Salbra: It worked, yes?
+
+Player: yes
+Salbra: Great! You can of course use some healing spells on OTHERS, too. But keep in mind, ONLY A DRUID can HEAL OTHERS with a SPELL. Why would you want this? Well, other players will want to have you in their party if you are a druid! ...
+
+Salbra: Now that was about all I had to tell you. Please proceed east and then north through the Gate of Initiates! ...
+
+Salbra: Good luck, and find a vocation that suits your style at the 4 vocation trainers: Sorcerer Estrella, Knight Hykrion, Druid Yandur and Paladin Narai!
+
+Player: sell magic plate armor
+Sam: WOW! Do you really want to sell me a MAGIC plate armor?
+
+Player: sell magic plate armor
+Sam: WOW! Do you really want to sell me a MAGIC plate armor?
+
+Player: sell magic plate armor
+Sam: WOW! Do you really want to sell me a MAGIC plate armor?
+
+Player: sell magic plate armor
+Sam: WOW! Do you really want to sell me a MAGIC plate armor?
+
+Player: prospect
+Sandomo: We are here to explore and prospect this desecrated shard of the gods creation. ...
+
+Sandomo: This island is currently in a state of demonic stranglehold. Yet, the Inquisition WILL win this land back from the grasp of evil. ...
+
+Sandomo: In my position as of the righteous Inquisition, I hereby declare you adjutant of the Inquisition - basically that means you are under MY command now.
+
+Player: repairs
+Sandomo: Alright, so you mixed and delivered 0 mortar and ...
+
+Sandomo: You killed 0 frazzlemaws and ...
+
+Sandomo: You also hunted 1 silencers. That would equal 1 of inquisition gold - BUT we are currently short of this valuable metal so... do you want me to add this amount to my books for now or trade it for something else.
+
+Player: destroying
+Sandomo: So, it seems you sounded 0 horns at the great mural and ...
+
+Sandomo: You desecrated 0 shrines of the maws that roam these lands. And ...
+
+Sandomo: You also lured 0 silencers away from the that cursed wall. Oh yes and ...
+
+Sandomo: You actually eradicated 0 of the wretched eyeballs, Sight of Surrender. ...
+
+Sandomo: That would equal 0 of inquisition gold - BUT we are currently short of this valuable metal so... do you want me to add this amount to my books for now or trade it for something else.
+
+Player: No
+Seymour: HEY! You don't have one! Stop playing tricks on me or I will give some extra work!
+
+Player: requirements
+Sharon: Well, first of all you need to purchase a Character World Transfer in the in-game Store. Without that, nothing will happen! ...
+
+Sharon: Then choose the character and the world you wish to be transferred to and follow the instructions from the store. ...
+
+Sharon: The character - you - must then talk to me here to be transferred to the chosen world. ...
+
+Sharon: You MUST NOT have a black or red skull, also make sure that you do not have any open Tibia Coin auctions in the Market! ...
+
+Sharon: You MUST give up all your bonds to this world. No marriage. No guild. No house. All of this will automatically be dissolved for you when transferring. ...
+
+Sharon: You can only move every 6 months! So if you've already changed worlds, you need to wait 6 months for a new transfer. Or buy an Express World Transfer in the Store. But that's expensive. ...
+
+Sharon: I can tell you about what happens to your money and items, and I also check whether you meet the requirements - and if you do, I can then teleport you to the departure platform.
+
+Player: money
+Sharon: I recommend depositing all of your gold in the bank. You will keep ALL of the money on your bank account on the new world.
+
+Player:
+/ Bye
+Shauna: LONG LIVE THE QUEEN!
+
+Player: Queen / Leader
+Shauna: HAIL TO QUEEN ELOISE!
+
+Player: Yes
+Shauna: Yeah, I bet you'd like to do that! HO, HO, HO!
+
+Player: Todd
+Shauna: I scared this bigmouth so much that he left the town by night. HO, HO, HO!
+
+Player: Brog
+Shauna: Wouldn't wonder if some males worship him secretly. HO, HO, HO!
+
+Player: Monster
+Shauna: I deal more with the human mosters, you know? HO, HO, HO!
+
+Player: Excalibug
+Shauna: Would certainly make a good butterknife. HO, HO, HO!
+
+Player: Rebellion
+Shauna: The only thing that rebels here now and then is the stomach of a male after trying to make illegal alcohol. HO, HO, HO!
+
+Player: teshial
+Shiriel: They were not prepared for what they encountered in their quest for knowledge. WE will be.
+
+Player: wolf
+Simon the Beggar: Please kill them ... ALL.
+
+Player: hi
+Sirik: LONG LIVE JARL SVEN, THE YOUNGER!
+
+Player: name
+Sirik: I AM A BARBARIAN! Names are of no concern during work!! If somebody is calling for help, I will come.
+
+Player: tales
+Sirik: Once upon a time there was ..... WHO DO YOU THINK I AM! GO TO YOUR GRANDMOTHER FOR SUCH THINGS!! (idle)
+
+Player: noise
+Sirik: You heard something?? ALARM, RAIDER ATTACK!! (idle)
+
+Player: breasts / busty
+Sirik: NOT ME! With that thick fur clothes we are wearing, it is not easy to see... er... female characteristics.
+
+Player: army
+Sirik: Good idea, how many people do we need for an army? Maybe you can recruit a few hundreds of your friends? *GIGGLE*
+
+Player: robert
+Sirik: HAA, he thinks his weapons are the best!! Too weak to hold a real barbarian axe! You find him near the arena.
+
+Player: raiders
+Sirik: In fact they are also barbarians. The difference is that WE are civilised and THEY are not!
+
+Player: bye
+Sirik: MAY YOUR WEAPON ALWAYS BE SHARP!
+
+Player: crap
+Snake Eye: Crap. Crap! CRAP! It's all CRAP!
+
+Player: cookies
+Soilance: No, I don't sell cookies. And I don't want to buy any either. This is a MEAT store!
+
+Player: thank you
+Sorcerer Estrella: Didn't see THAT one coming. You're welcome.
+
+Player: yes
+Sorcerer Estrella: Be aware that this decision is final, Player! Step in front of me and announce it proudly: DO YOU WANT TO BE A SORCERER?
+
+Player: yes
+Sorcerer Estrella: SO BE IT! Rise and feel the power, sorcerer Player! Learn the words of your first three spells: 'UTEVO LUX', 'EXURA' and 'EXORI MIN FLAM'! Light, light healing, Apprentice's strike, ...
+
+Sorcerer Estrella: You may cast it by saying the magic words 'UTEVO LUX', 'EXURA' or 'EXORI MIN FLAM' while you have enough mana. Also, you have earned the right to enter the cellar of this house. What you find inside the chests there, is yours to take. ...
+
+Sorcerer Estrella: Equip yourself well and gather some experience in the caves below. You may stay there for a while, but you should leave for the main continent soon. ...
+
+Sorcerer Estrella: The captain on the ship to the north will bring you to a city of your choice when you are prepared. Farewell, young sorcerer, and don't hesitate to ask me if you have any questions.
+
+Player: women
+Sorcerer Estrella: NO! Or well - maybe that's true for really strong and well-known sorcerers, who, however, still need to buy runes. Do not hope for too many women, but still, I'd like to ask you whether you think you might enjoy being a sorcerer, yes or no?
+
+Player: parallel dimensions
+Spectulus: To explain the infinity of parallel dimensions, please imagine the following. ...
+
+Spectulus: We are currently at a specific point in the flow of time. Let's call it point ZERO at 12:00 o'clock. ...
+
+Spectulus: As time flows I might drop my pencil to the ground - so the flow of time and the events chained to it have gone in direction ONE which leads to 12:01 o'clock with a dropped pencil. ...
+
+Spectulus: Now let's go back to point ZERO. I might also have just put it back into my pocket - the flow of time and its chain of events would have taken a 'different' direction, direction TWO - which leads to a 12:01 o'clock where I never dropped my pencil. ...
+
+Spectulus: Now imagine that 'both' directions actually exist - but you are only aware of one chain of events that has happened. The one where I dropped the pencil. And this is 'your' dimension, the one you are bound to. ...
+
+Spectulus: One 'parallel' dimension would be where the chain of events went in direction TWO. The pencil has been put into my pocket. ...
+
+Spectulus: Now imagine that there is an endless amount of ZERO points, maybe at 12:00 o'clock and one second, or at 12:00 o'clock and two seconds - each from which time can take any possible and probably impossible direction. ...
+
+Spectulus: And whatever direction a chain of events takes, there will always be an infinite amount of points in time from which new events can take completely different directions, creating completely different dimensions of time. ...
+
+Spectulus: Now you might have a better picture of the infinity of dimensions.
+
+Player: wisdom
+Spirit Speaker: WISDOM! Such a desirable thing, isn't it? You have come to the right place, I have much knowledge to share about the world you live in, more than you could ever imagine. ...
+
+Spirit Speaker: But not everyone was born to possess great wisdom, especially when they intend to use it as a tool of destruction. Like Ferumbras for example, who used his immense power to call upon great demons to lay havoc on the city of Thais.
+
+Player: hi
+Stan: YOU DARE TALKING TO ME, MORTAL?!! ... Relax, it's just a costume. Welcome to Stan's!
+
+Player: costume
+Stan: Making these costumes is not as easy as it seems. Have you ever asked yourself how an adult human fits into a dwarf costume? Well, you won't learn it from me! ...
+
+Stan: Otherwise everyone opens up a costume shop ruining my life AGAIN! Anyway I can offer you costumes in three categories: 'common', 'uncommon' or 'deluxe'. Which category are you interested in?
+
+Player: rumour
+Stan: There are rumours about people getting killed while wearing my costumes. There was this toothless guy, can't remember his name, he bought a demon costume and then started running around screaming ...
+
+Stan: 'YOUR SOUL WILL BE MINE!'. Don't be surprised if you get killed when you act that stupid.
+
+Player: costume
+Stan: Making these costumes is not as easy as it seems. Have you ever asked yourself how an adult human fits into a dwarf costume? Well, you won't learn it from me! ...
+
+Stan: Otherwise everyone opens up a costume shop ruining my life AGAIN! Anyway I can offer you costumes in three categories: 'common', 'uncommon' or 'deluxe'. Which category are you interested in?
+
+Player: outfit
+Stan: This is MY very special costume! I'm sorry but I can't offer you that. It's unique!
+
+Player: hi / hello
+Stutch: MIND YOUR MANNERS COMMONER! To address the king greet with his title!
+
+Player: hail king / hello king / salutations king
+Stutch: HAIL TO THE KING!
+
+Player: bye
+Stutch: LONG LIVE THE KING! You may leave now!
+
+Player: Rice
+Swolt: Aaargh! Cael and his strange thoughts! He bugged me so long about the lizard culture that I eventually agreed to prepare that rice for you if you need it. I need one ripe rice plant to prepare ten rice balls. OK?
+
+Player: Rice
+Swolt: Aaargh! Cael and his strange thoughts! He bugged me so long about the lizard culture that I eventually agreed to prepare that rice for you if you need it. I need one ripe rice plant to prepare ten rice balls. OK?
+
+Player: hi
+Sylvester: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Sylvester: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Sylvester: LONG LIVE THE KING!
+
+Player: hi/hello
+Talphion: HIHOOOO Player! <waves> PLEASE DON'T INTERRUPT ME FOR TOO LONG IN MY JOB!
+
+Player: god
+Talphion: GODS? WHO NEEDS GODS IF WE CAN PRODUCE THE CORRECT MACHINE FOR EVERY OCCASION?
+
+Player: life
+Talphion: WHAT HIVE?
+
+Player: army
+Talphion: ONE DAY OUR MACHINES WILL CHANGE THE ARMY'S STRUCTURE DRASTICALLY, JAWOLL!
+
+Player: ferumbras
+Talphion: I BET I COULD BUILD A MACHINE TO SHRED HIM INTO PIECES!
+
+Player: bezil/nezil
+Talphion: BEZIL AND NEZIL ARE RUNNING A SHOP.
+
+Player: bolt/crossbow
+Talphion: YES, YES, I SELL THEM. ASK ME FOR A TRADE!
+
+Player: TRADE
+Talphion: HERE YOU GO! TAKE A GOOD LOOK!
+
+Player: gold/money
+Talphion: DONATIONS ARE ALWAYS WELCOME!
+
+Player: big old
+Talphion: THAT'S THE NAME OF THIS MOUNTAIN!
+
+Player: colossus
+Talphion: NICE PIECE OF WORK. WOULD BE MORE FUN IF IT COULD MOVE AROUND... WE HAVE PLANS...
+
+Player: dress pattern
+Talphion: DRESS FLATTEN? WHO WANTS ME TO FLATTEN A DRESS?
+
+Player: durin
+Talphion: I'M SURE HE WOULD BE SMART ENOUGH TO SEE THE CHANCES WE PROVIDE FOR ALL DWARFS.
+
+Player: duria
+Talphion: KNIGHTS DO NOT HAVE THE BRAINS TO EVEN UNDERSTAND WHAT WE ARE OFFERING THEM.
+
+Player: OFFERING
+Talphion: THE MOST SOPHISTICATED ITEMS THAT PEOPLE BUY ARE CROSSBOWS.
+
+Player: earth
+Talphion: SORRY, BUT EARTH MEANS NOTHING TO ME THAN DUST AND MUD
+
+Player: elves
+Talphion: NO, I DON'T NEED ANY SHELVES!
+
+Player: equipment
+Talphion: YOU CAN'T HANDLE MOST OF OUR STUFF, BUT I COULD SELL YOU SOME CROSSBOWS.
+
+Player: etzel
+Talphion: WHO NEEDS MAGIC? PAH!
+
+Player: excalibug
+Talphion: OLD FASHIONED BUTTER KNIFE! IF THEY LET ME, I WOULD CREATE WEAPONS THAT LEVEL ENTIRE CITIES!
+
+Player: fire/flame
+Talphion: NICE RESOURCE FOR OUR MACHINES, BUT NO NEED TO MAKE A BIG DEAL ABOUT IT, JAWOLL!
+
+Player: fight
+Talphion: NO, DON'T TURN OFF THE LIGHT.
+
+Player: general/motos
+Talphion: SUCH A FOOL, WITH SOME MORE RESOURCES, I COULD BUILD FOR HIM WAR MACHINES BEYOND HIS WILDEST DREAMS! <laughs insanely>
+
+Player: geomancer/pyromancer
+Talphion: OLD FOOLS, TOO MUCH CONCERNED ABOUT TRADITION.
+
+Player: emperor
+Talphion: AT LEAST HE'S SMART ENOUGH TO LEAVE US ALONE, SO THERE'S HOPE FOR HIM.
+
+Player: hall of the ancients
+Talphion: JUST A BUNCH OF BONES.
+
+Player: maryza
+Talphion: LOVELY, BUT PREJUDICED LIKE MOST DWARFS ARE.
+
+Player: jimbin
+Talphion: HIS BREWERY SAVED OUR DAY MORE THAN ONCE.
+
+Player: humans
+Talphion: A PROMISING RACE, SOME OF THEM ACTUALLY ADMIRE MECHANICS.
+
+Player: plant
+Talphion: HEY! HOW DID YOU LEARN ABOUT OUR SECRET PLANT?
+
+Player: tibia
+Talphion: CAN'T TELL MUCH ABOUT IT. I SELDOM GET OUT OF HERE, I'M A BUSY DWARF.
+
+Player: kroox
+Talphion: WE COULD TEACH HIM MUCH IF HE ONLY LISTENED.
+
+Player: poem
+Talphion: I ALREADY TRIED TO BOW 'EM BUT THEY ARE TOO HARD!
+
+Player: minotaurs/orcs
+Talphion: LET THEM COME, I'M WORKING ON A LITTLE SURPRISE FOR THEM! <chuckles madly>
+
+Player: monster
+Talphion: I COULDN'T CARE LESS ABOUT THEM.
+
+Player: quest/task/what do
+Talphion: BRING ME THE SCREWDRIVER OF KURIK AND I WILL REWARD YOU WITH A STEAM-POWERED SPIKE SWORD!
+
+Player: news
+Talphion: ASK JIMBIN ABOUT HIS BREWS, NOT ME!
+
+Player: time
+Talphion: ONE DAY I'LL CREATE A CLOCK FOR THE COLOSSUS!
+
+Player: technical details
+Talphion: TECHNICAL DETAILS ABOUT WHAT???
+
+Player: technomancer
+Talphion: WE ARE THE FUTURE. WE WILL BECOME A MAJOR POWER IN DWARVEN SOCIETY SOON! THEY WILL SEE, THEY WILL ALL SEE! WE HAVE SO MUCH TO OFFER! <chuckles and rolls his eyes>
+
+Player: uniform
+Talphion: NO, HERE IS NO UNICORN!
+
+Player: uzgod
+Talphion: WE COULD MAKE MACHINES WHICH WOULD ENABLE HIM TO DO HIS WORK IN HALF THE TIME.
+
+Player: bye/farewell
+Talphion: YEAH, GO AWAY!
+
+Player: help
+Talphion: WHOM YOU ARE CALLING A WHELP, YOU CHEEKY MONKEY!
+
+Player: kazordoon
+Talphion: WHAT?
+
+Player: kazordoon
+Talphion: WHO'S DOOMED?
+
+Player: kazordoon
+Talphion: OH, THE CITY? NICE, ISN'T IT?
+
+Player: job
+Talphion: WHERE SHOULD I HOP?
+
+Player: job
+Talphion: OH, JOB? I'M THE CHIEF TECHNOMANCER!
+
+Player: name
+Talphion: I HAVE NO TIME FOR A GAME!
+
+Player: name
+Talphion: I'M TALPHION SPARKBENDER, SON OF THE MACHINE FROM THE SAVAGE AXES.
+
+Player: heal
+Talphion: I'M AN ENGINEER, NOT A DOCTOR!
+
+Player: heal
+Talphion: YOU ARE BURNING! THAT'S FUN, HOW DO YOU DO THAT?
+
+Player: heal
+Talphion: YOU ARE POISONED! DID YOU DRINK STUFF IN A GREEN BOTTLE? THAT'S SUPERGLUE, NOT SUPPER-GLUE!
+
+Player: New dress pattern
+Talphion: DRESS FLATTEN? WHO WANTS ME TO FLATTEN A DRESS?
+
+Player: New dress pattern
+Talphion: A PRESS LANTERN? NEVER HEARD ABOUT IT!
+
+Player: New dress pattern
+Talphion: CHESS? I DONT PLAY CHESS!
+
+Player: New dress pattern
+Talphion: A PATTERN IN THIS MESS?? HEY DON'T INSULT MY MACHINEHALL!
+
+Player: New dress pattern
+Talphion: AH YES! I WORKED ON THE DRESS PATTERN FOR THOSE UNIFORMS. STAINLESS TROUSERS, STEAM DRIVEN BOOTS! ANOTHER MARVEL TO BEHOLD! I'LL SENT A COPY TO KEVIN IMEDIATELY!
+
+Player: sunken quarter
+Tarak: Now that's some story. I've told it numerous times to tourists - <coughs>, I mean, adventurers - but it still makes me shiver each time. ...
+
+Tarak: As you might have already noticed, Yalahar is huge. HUGE. The city has grown so much over the past centuries that eventually there was no space left for new buildings. ...
+
+Tarak: However, due to the constant flow of immigrants, the citizens just kept on building and building - either placing buildings on top of each other or trying to enhance the space with platforms on the water. ...
+
+Tarak: Then, a few decades ago, there was a day which I still remember vividly, because I was right in the middle of the whole disaster happening. ...
+
+Tarak: I just came back from the centre and was on the way to my house located in the east quarter - today situated several feet below us under the ocean surface. ...
+
+Tarak: Suddenly the earth was shaking and I heard a loud rumbling. I was still wondering what on earth was going on, or if we were under attack, when I saw the houses closest to the ocean collapse. ...
+
+Tarak: Just like that! The ground under them broke away and fell into the ocean, and then - imagine that - like a wave of destruction, terror rushed through the whole quarter. ...
+
+Tarak: I heard people screaming and more houses tumbling down, and immediately I rushed back to the centre, behind the solid city walls - even though they didn't seem so solid at that time, but it was the safest place I could get to. ...
+
+Tarak: From there I had to helplessly watch how the whole quarter fell apart. Large chunks of stone and earth collapsed into the ocean, and with them all of my belongings. ...
+
+Tarak: When the wave of destruction reached the wall separating the quarter from the other parts of the city, that wall also sunk into the ocean and must have worked as a barrier down there. ...
+
+Tarak: You can still see the top of the old wall sticking out of the water. After that last collapse, the destruction stopped all of a sudden. ...
+
+Tarak: Only a few people, among them myself as you can see, were able to survive the great downfall. The rest was buried under their houses, or drowned in the ocean. Such cruel fate... ...
+
+Tarak: Well, <clears throat> it took a while for me to recover from that incident, and afterwards I decided to show to adventurers what can happen when you foolishly overestimate your power. So let that be a lesson to you. ...
+
+Tarak: Now, it's up to you if you want to dive down to the remains of the sunken part of Yalahar. You need a Helmet of the Deep, though. And beware, quara have infested the area. ...
+
+Tarak: Maybe they were also involved into the great downfall. We will never know for sure, but I truly hope an incident like that won't repeat itself in Yalahar.
+
+Player: hi / hello
+Tehlim: Hello. I'm so glad someone has found me. Did you meet THEM?!
+
+Player: job / work
+Tehlim: I'm the cook for the expedition party. The only one who didn't get cought by those.... those MONSTERS.
+
+Player: mine
+Tehlim: This part of the mine was abandoned a long time ago. There are no crystals left. The expedition had the task to check for new veins of crystal... but before we could find one, THEY found us.
+
+Player: what
+Tehlim: The expedition had the task to check for new veins of crystal....but before we could find one, THEY found us. Those trolls are.... different.
+
+Player: hi
+Thanita: How could you sneak up on me like this, Dago? I thought you were one of THEM! Well, since you are not, what brings you to this wilderness?
+
+Player: Edron
+The Librarian: Edron is a city on a namesake island far away from here. It was discovered by King Tibianus III, who settled a colony there. Therefore it belongs to the Thaian Kingdom. They have a magic academy of some reputation.
+
+Player: Thais
+The Librarian: Thais is a city on a far-away continent. King Tibianus III is reigning there. It is named after Thais, a legendary warrior who founded the settlement.
+
+Player: hi
+The Oracle: CHILD! COME BACK WHEN YOU HAVE GROWN UP!
+
+Player: hi
+The Oracle: Player, I CAN'T LET YOU LEAVE - YOU ARE TOO STRONG ALREADY! YOU CAN ONLY LEAVE WITH LEVEL 8 OR 9.
+
+Player: hi
+The Oracle: Player, ARE YOU PREPARED TO FACE YOUR DESTINY?
+
+Player: yes
+The Oracle: I WILL BRING YOU TO THE ISLAND OF DESTINY AND YOU WILL BE UNABLE TO RETURN HERE! ARE YOU SURE?
+
+Player: no / (any)
+The Oracle: COME BACK WHEN YOU ARE PREPARED TO FACE YOUR DESTINY!
+
+Player: yes
+The Oracle: SO BE IT!
+
+Player: bye / (vanish)
+The Oracle: COME BACK WHEN YOU ARE PREPARED TO FACE YOUR DESTINY!
+
+Player: seal / guardian
+The Queen Of The Banshees: I'm the guardian of the SEVENTH and final seal. The seal to open the last door before ... but perhaps it's better to see it with your own eyes.
+
+Player: hi (after completing Warlord arena)
+Thorwulf: HAIL to the Warlord of the arena, Player! Hero of Svargrond! What can I do for you?
+
+Player: hi
+Tim, The Guard: LONG LIVE THE KING!
+
+Player: king / tibianus / leader
+Tim, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
+
+Player: bye
+Tim, The Guard: LONG LIVE THE KING!
+
+Player: Hi (Kingsday)
+Trimegis: These stupid Kingsday festivities are the worst idea I've ever seen. Especially because drunk mundanes run through MY room all the time. I prefer to hide in the execution archives.
+
+Player: Thais
+Turvy: Thais is OK - I suppose. Not as nice as Venore, but good for business.
+
+Player: Monster
+Turvy: There is a monster here? HERE?! Time to double the prices!
+
+Player: yes
+Tylius: <chuckles> Good. We magic wielders prefer to fight from a distance, as our defense and armor is a lot weaker than that of the knights. But we deal out more damage with a hit than they do. ...
+
+Tylius: Stay at a little distance from a monster. Too far away: the staff won't hit the monster; come too close and the monster will hit YOU. ...
+
+Tylius: First, drag your staff to the weapon slot in your inventory to use it. Then, to attack, RIGHT-CLICK on a monster on the screen or battle list and choose 'ATTACK'. ...
+
+Tylius: Remember that a staff also needs mana to work, so make sure you always have some food, or you won't regenerate mana. There's food in the chest outside, and some blueberry bushes. Oh yes, one other thing: mana will only be regenerated inside tents. ...
+
+Tylius: Ready for the staff?
+
+Player: again
+Tylius: Gladly. We magic wielders prefer to fight from a distance, as our defense and armor is a lot weaker than that of the knights. But we deal out more damage with a hit than they do. ...
+
+Tylius: Stay at a little distance from a monster. Too far away: the staff won't hit the monster; come too close and the monster will hit YOU. ...
+
+Tylius: Drag your staff to the weapon slot in your inventory to use it, right-click on a monster and choose 'attack'. ...
+
+Tylius: Check your mana and always have some food with you. When you're done, visit Shanoya next door for more... mundane distance fighting. <chuckles> Enjoy!
+
+Player: no
+Tylius: No? <chuckles> OK, we'll proceed as planned, then.
+
+Player: marid
+Ubaid: Marid? When? Where? How many? RED ALERT! ...
+
+Ubaid: Hey! There is nobody here! Don't do that again, human!
+
+Player: job
+Uncle: I have the privilege to serve as the headman of the AVIN.
+
+Player: AVIN
+Uncle: The Agency of Venorean Interest Negotiators is an organisation sponsored by the noble traders of our fair city ...
+
+Uncle: We ensure the safety of our city and it's ventures and we scan the shifting markets and points of interests all over the world ...
+
+Uncle: The field of our operations is broad and we react quite flexibly to the numerous problems that might arise.
+
+Player: CGB
+Uncle: The CGB are amateurish patriots. They lack any refinement or subtlety that is necessary in this business ...
+
+Uncle: When you need a fine sharp knife, they come with a chopping axe. But like all fanatics they can become dangerous if you do not monitor them.
+
+Player: TBI
+Uncle: They are bureaucrats, content when counting pennies and wasting the king's resources ...
+
+Uncle: All tries to make this humongous organisation more effective have been without success.
+
+Player: Ferumbras
+Urkalio: THAT would be some attraction down here.
+
+Player: gold
+Uso: There IS gold out there. Lots of it! I can feel it in my old bones.
+
+Player: ignorance
+Vigintius: You still remember those times when you were a rookie, don't ya? Well I do and you were one of the rookiest rookies I've ever seen - and I've seen my share, man. ...
+
+Vigintius: How you tried to get out of that hole! Pure comedy, I tell ya. I also know you were a bit afraid of trolls! LOL! Imagine, trolls! ...
+
+Vigintius: And you were scared like mad of orcs: 'Oh, they will kill me! Must get out of here!' Priceless! Don't feel ashamed, man. We all've been there! In the end you turned out quite well I must say! Well, at least you could have turned out worse, man.
+
+Player: enter
+Vulturenose: YOU WILL NOT PASS! Erm ... I mean you don't look like a true pirate to me. You won't get in.
+
+Player: hi
+Walter, The Guard: LONG LIVE THE KING!
+
+Player: KING / leader / tibianus
+Walter, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
+
+Player: bye / farewell
+Walter, The Guard: LONG LIVE THE KING!
+
+Player: hi
+Walter Jaeger: Good hunting! I can offer you some lovely rewards for finishing prey hunting tasks! Furthermore I can tell you how many hunting task points (HTP) you actually have and you have already spent.
+
+Player: rewards
+Walter Jaeger: Finishing prey hunting tasks will give you hunting task points (HTP). These can be exchanged for items of the following categories: outfit, mount, trophies, extras and furniture. ...
+
+Walter Jaeger: Please note, that all items will be put into your Store inbox!
+
+Player: Falconer
+Walter Jaeger: The base Falconer outfit costs 100,000 HTP, the first addon 35,000 HTP and the second addon 35,000 HTP.
+
+Player: antelope
+Walter Jaeger: The antelope mount costs 145,000 HTP.
+
+Player: trophies
+Walter Jaeger: gozzler trophy (3,000 HTP), bronze hunter trophy (3,000 HTP), sea serpent trophy (15,000 HTP), silver hunter trophy (15,000 HTP), ...
+
+Walter Jaeger: many faces trophy (50,000 HTP), hellflayer trophy (80,000 HTP), gold hunter trophy (80,000 HTP), brachiodemon trophy (80,000 HTP).
+
+Player: extras
+Walter Jaeger: I offer you a cerberus champion puppy (75,000 HTP), a demon doll (37,500 HTP) and a vexclaw doll (37,500 HTP).
+
+Player: furniture
+Walter Jaeger: I offer you a bone bed (35,000 HTP) and a falcon pet (135,000 HTP).
+
+Player: have
+Walter Jaeger: Right now you have 0 HTP.
+
+Player: spent
+Walter Jaeger: You have already spent 0 HTP.
+
+Player: hi
+Warbert: LONG LIVE THE KING!
+
+Player: KING / tibianus / leader
+Warbert: Tibianus III is our beloved king! He rules over Venore from far away Thais.
+
+Player: bye
+Warbert: LONG LIVE THE KING!
+
+Player: todd
+William: In Todd we trust! TODD! TODD! TODD!
+
+Player: Hi
+Willie: Hiho Player.
+
+Willie: YOU RUDE $!@##&
+
+Player: Hi (Kingsday)
+Wyat: HAIL TO KING TIBIANUS! On Kingsday, all of us have to work hard to uphold law and order.
+
+Player: King/Leader
+Wyat: HAIL TO KING TIBIANUS!
+
+Player: Secret police
+Wyat: All i can tell you is, that it's known as the TBI.
+
+Player: Bye
+Wyat: LONG LIVE THE KING!
+
+Player: time
+Wyda: I think it is the fourth year after Queen Eloise's crowning, but I cannot tell you date or time.
+
+Wyda: It's about time SOMETHING HAPPENED HERE!
+
+Player: yes (Getting a witchesbroom)
+Wyda: Thank you -SOOO- much! No, I really mean it! Really! Here, let me give you a reward...
+
+Player: yes (Getting a torn teddy)
+Wyda: Thank you -SOOO- much! No, I really mean it! Really! Ah, you know what, you can have this old thing...
+
+Player: monsters / creatures
+Wyda: Many creatures live in, around, and beneath the swamp. Be careful!
+
+Wyda: Many creatures live in, around, and beneath the swamp. Be careful... MWIHIHIHIHIHI.
+
+Player: Black Knight
+Wyda: Wyda: A black knight? Black is the color of witches, why whould any knight carry black?
+
+Wyda: Many creatures live in, around, and beneath the swamp. Be careful... MWIHIHIHIHIHI.
+
+Player: Ferumbras
+Wyda: Haha, that's a stupid name. Who's that?
+
+Wyda: Look, behind you!! WAHAHAHAHAHAHA.
+
+Player: become witch
+Wyda: You're a MAN! (man)
+
+Wyda: You can't just become a witch. Either you are or you aren't - and YOU obviously aren't! (female)
+
+Player: see you
+Wyda: Good luck on your journeys, player
+
+Wyda: NO! Don't go! I need someone to entertain me!
+
+Player: bye
+Wyda: Good luck on your journeys.
+
+Wyda: NO! Don't go! I need someone to entertain me!
+
+Player: fun
+Xaver: I sell lots and offer worms for our fishing contest. I also garnish gingerbread hearts in case you have one. And I trade traditional furniture, treats or a specialty for festive points (FP).
+
+Player: treats
+Xaver: Sure, I can offer a tasty leberkas (100 FP), delicious candy floss (100 FP), juicy stockfish (140 FP), exquisite unicorn weisswurst (2000 FP) and a traditional beer mug (450 FP). What will it be?
+
+Player: busy / elevator
+Xorlosh: Some son of a rotworm put WAY too much stuff in this elevator and now it's broken. I could do with some help to fix it.
+
+Player: mission / quest
+Xorlosh: Hehe, they don't expect me to be done so quickly, so I PRETEND I'm not ready yet. Hrhrhrhr.
+
+Player: job
+Yawno: ...hmf ...
+
+Yawno: Hm - what? What? Did I... *yawn* well, what was ya question? Ah job, yes. ...
+
+Yawno: Well... I'm a fisherman. Obviously. Can't ya see? I'm fishin' 'ere! Oh and now please be quiet, quiet *whisper* really quiet... ...
+
+Yawno: ...and maybe MOVE AWAY A LITTLE! THANKS. Ya're SCARING AWAY the... the... fish. *yawn* hmmnmnf...
+
+Player: fish
+Yawno: Well, just between the two of us - the lake is still crystal clear right now. Ya know, it's TOO CLEAN. That ain't attract no shimmer swimmer, it doesn't. ...
+
+Yawno: The lake needs to be dirtier, filthier, murkier yupp. An' I bet ya don't know the secret, eh? How to get it real dirty? Corpses. Loads of corpses. Piles of 'em. Throw 'em into the water, eh. You'll see.
+
+Player: king
+Zerbrus: HAIL TO THE KING!
+
+Player: hint
+Zerbrus: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.
+
+Player: hint
+Zerbrus: To open or close skills, battle or VIP list, click on the corresponding button to the right.
+
+Player: process
+Zeronex: Maybe the mixture will work this time! I am sure it can only be a minuscule variation that needs to take place. Then the gloud-filled balloon should be lifted UP, and we achieve non-magical levitation, or airborne travel!
+
+Player: hi / hello
+Zirkon: SHHHHHHH, QUIET HERE! THIS IS THE SACRED PLACE OF THE DWARVEN GEOMANCERS!
+
+Player: mizzion / mission (Wrath of the Emperor - Mission 10: A Message of Freedom)
+Zizzle: You freed ze dragon! And you pozzezz ze key to enter ze inner realmz of ze emperor, well done. ...
+
+Zizzle: Now you are ready to reach ze inner zanctum of ze emperor. Zalamon'z revelationz showed him zat zere are four cryztalz channelling ze will of ze emperor into ze land. ...
+
+Zizzle: Wiz ze relic you gained from Zalamon we were able to create powerful replicaz of ze zeptre. Take ziz wiz you. ...
+
+Zizzle: You will have to realign ze cryztalz one after ze ozer. Ztart wiz ze one in ze norz-wezt and work your way clockwize zrough ze room. ...
+
+Zizzle: Uzing ze zeptre will forze a part of ze emperor'z willpower out of ze cryztal. You will have to kill zoze manifeztationz. ...
+
+Zizzle: Zen uze your zeptre on ze remainz to deztroy ze emperor'z influenze over ze cryztal. ...
+
+Zizzle: I recommend not to go alone becauze it will be very dangerouz - but ALL of you will have to uze zeir zeptre replicaz on ze emperor'z remainz to prozeed! ...
+
+Zizzle: Good luck. You will need it.
+
+Player: vampire
+Znozel: Where? WHERE?! HELP! Protect my gold!
+
+Player: alchemist quarter
+Znozel: It gone BOOOM! Yes, yes! No good going there.
+
+Player: king / tibianus
+Zoltan: King Tibianus III was the founder of our academy.
+
+Player: yes
+Zoltan: So know that destroying the mortal shell of the being called Ferumbras was the best we were able to achieve with our combined efforts in the past. ...
+
+Zoltan: He was destroyed not only once but several times. Eventually we were able to figure out the secret of his seeming immortality. ...
+
+Zoltan: On one of the most remote islands of the Shattered Isles, he built a citadel with demonic aid right around a powerful magical nexus. ...
+
+Zoltan: The only reason for the whole complex was to establish a point of return into our world. Whenever he is slain, his soul retreats to some demonic dimension to regain enough strength to re-enter the world. ...
+
+Zoltan: We were not able to destroy his citadel, this unholy construct. To make matters worse, the nexus makes it easy for demons of all kind to pass into our world. ...
+
+Zoltan: The best thing we could do was to seal the citadel and to install a device that will alarm us whenever Ferumbras tries to re-enter our world. ...
+
+Zoltan: We grant heroes like you the permission to pass our seals and enter Ferumbras' citadel. ...
+
+Zoltan: Just ask for the permission if you are ready to go there. Be warned that the citadel is no holiday place though. You will encounter large amounts of demons and traps that scare off most adventurers. ...
+
+Zoltan: On the other hand, WHEN Ferumbras re-enters the world we need heroes like you to face him on his very own ground before he can escape. ...
+
+Zoltan: His return is not very likely but it can happen each and every day. If you should manage to defeat him, bring a proof of his death here and you will be rewarded.
+
+Player: permission
+Zoltan: The attuning to our seals is a costly process and it will grant you access to the citadel ONLY ONCE. Each time you want to enter, you will need a new attuning. Are you willing to pay 500 gold pieces to become attuned to the seal of the citadel?
+
+Player: yes
+Zoltan: SO BE IT!
+
+Player: wall
+Ztiss: King Chong III ordered ze begin of ze wall'z conztruction in ze zirteen'z year of hiz reign. Ze wall waz built az lazt line of defenze againzt barbarianz az well az a boundary between ze lower and upper clazzez.

@@ -2,7 +2,7 @@ import json
 import re
 
 # Load the JSON data
-with open('achivements_with_version.json', 'r', encoding='utf-8') as f:
+with open('achivements_with_version_with_metadata.json', 'r', encoding='utf-8') as f:
     achievements = json.load(f)
 
 
@@ -50,7 +50,7 @@ for achievement in achievements:
     achievement['methodUsed'] = method_used
 
 # Save the updated data back to the file
-with open('achivements_with_version.json', 'w', encoding='utf-8') as f:
+with open('achivements_with_version_with_metadata.json', 'w', encoding='utf-8') as f:
     json.dump(achievements, f, ensure_ascii=False, indent=2)
     
 

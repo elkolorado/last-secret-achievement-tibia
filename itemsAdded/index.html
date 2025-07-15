@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Items Grid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: box-shadow 0.2s;
+        }
+
+        .card:hover {
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .card img {
+            width: 96px;
+            height: 96px;
+            object-fit: contain;
+            margin-bottom: 12px;
+            background: #eee;
+            border-radius: 4px;
+        }
+
+        .item-name {
+            font-weight: bold;
+            margin-bottom: 6px;
+            text-align: center;
+        }
+
+        .item-id {
+            color: #666;
+            font-size: 0.95em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Items Grid</h1>
+    <div>
+        <span id="totalItems"></span> | <span id="achievementItems"></span>
+    </div>
+    <div class="grid" id="itemsGrid"></div>
+
+    <script>
+
+        const blacklist = [
+            'a stone',
+            'a wall',
+            'a skull',
+            'grass',
+            'stone',
+            'a mountain',
+            'sandstone floor',
+            'sugar'
+        ]
+
+        fetch('added8.7.json')
+        // fetch('items_8.7.json')
+            .then(res => res.json())
+            .then(items => {
+                const grid = document.getElementById('itemsGrid');
+                const totalItemsSpan = document.getElementById('totalItems');
+                const achievementItemsSpan = document.getElementById('achievementItems');
+
+                //fetch the achievement metadata
+                fetch('achivements_with_version_with_metadata.json')
+                    .then(res => res.json())
+                    .then(achievements => {
+
+                        // items = items.filter(item =>
+                        //     item.flags && item.flags.some(flag => Array.isArray(flag) && flag.includes('stackable'))
+                        // );
+
+                        totalItemsSpan.textContent = `Total items: ${items.length}`;
+
+                        let achievementRelatedCount = 0;
+
+                        items.forEach(item => {
+                            const card = document.createElement('div');
+                            card.className = 'card';
+
+                            // Check if item.asset_name is mentioned in any achievement spoiler
+                            const relatedAchievements = achievements.filter(ach =>
+                                ach.spoiler &&
+                                !blacklist.includes(item.asset_name.toLowerCase()) &&
+                                new RegExp(`\\b${item.asset_name.replace(/^(a |an |some |bunch of )/i, '').trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i').test(ach.spoiler)
+                            );
+                            if (relatedAchievements.length > 0) {
+                                achievementRelatedCount++;
+                                card.style.border = '2px solid red';
+                                card.style.display = 'flex';
+                                // Build tooltip content
+                                const tooltip = document.createElement('div');
+                                tooltip.style.position = 'absolute';
+                                tooltip.style.background = '#fff';
+                                tooltip.style.border = '1px solid #ccc';
+                                tooltip.style.padding = '8px';
+                                tooltip.style.borderRadius = '6px';
+                                tooltip.style.boxShadow = '0 2px 8px rgba(0,0,0,0.15)';
+                                tooltip.style.fontSize = '0.95em';
+                                tooltip.style.zIndex = '100';
+                                tooltip.style.display = 'none';
+                                tooltip.style.maxWidth = '320px';
+
+                                tooltip.innerHTML = relatedAchievements.map(ach =>
+                                    `<div style="margin-bottom:8px;">
+                                        <strong>${ach.name || 'Achievement'}</strong><br>
+                                        <span>${ach.description || ''}</span>
+                                        <span>${ach.version ? `<br><em>Version: ${ach.version}</em>` : ''}</span>
+                                        <span>${ach.spoiler ? `<br><em>Spoiler: ${ach.spoiler}</em>` : ''}</span>
+                                    </div>`
+                                ).join('');
+
+                                card.style.position = 'relative';
+                                card.appendChild(tooltip);
+
+                                card.addEventListener('mouseenter', () => {
+                                    tooltip.style.display = 'block';
+                                    tooltip.style.top = '169px';
+                                    tooltip.style.left = '0';
+                                });
+                                card.addEventListener('mouseleave', () => {
+                                    tooltip.style.display = 'none';
+                                });
+                            } else {
+                                // card.style.display = 'none'; // Hide items not related to achievements
+                            }
+                            const img = document.createElement('img');
+                            img.src = `generated_gifs/${item.asset_name}.gif`;
+                            img.alt = item.asset_name;
+
+                            const name = document.createElement('div');
+                            name.className = 'item-name';
+                            name.textContent = item.asset_name;
+
+                            const id = document.createElement('div');
+                            id.className = 'item-id';
+                            id.textContent = `ID: ${item.item_id}`;
+
+                            card.appendChild(img);
+                            card.appendChild(name);
+                            card.appendChild(id);
+
+                            grid.appendChild(card);
+                        });
+
+                        achievementItemsSpan.textContent = `Achievement-related: ${achievementRelatedCount} (Work in progres!!!)`;
+                    })
+                    .catch(err => console.error('Error fetching achievements:', err));
+
+
+            })
+            .catch(err => {
+                document.getElementById('itemsGrid').textContent = 'Failed to load items.';
+                console.error(err);
+            });
+    </script>
+</body>
+
+</html>

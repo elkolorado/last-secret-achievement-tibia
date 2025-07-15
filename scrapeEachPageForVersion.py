@@ -58,8 +58,8 @@ results = batch_query_versions(data)
 
 results.append({
     'name': 'Smart Thinking',
-    'id': '195',
-    'secret': 'secret',  # replace with the actual secret if needed
+    'id': 195,
+    'secret': True,  # replace with the actual secret if needed
     'grade': '',
     'points': '',
     'description': '',
@@ -69,7 +69,7 @@ results.append({
 })
 
 #sort by id
-results.sort(key=lambda x: int(x['id']) if x['id'].isdigit() else float('inf'))
+results.sort(key=lambda x: int(str(x['id'])) if str(x['id']).isdigit() else float('inf'))
 
 with open('achivements_with_version.json', 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)

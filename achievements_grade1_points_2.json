@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Bunny Slipped",
+    "id": 171,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Indeed, you have a soft spot for rabbits. Maybe the rabbits you saved today will be the rabbits that will save you tomorrow. When you are really hungry.",
+    "spoiler": "Obtainable by completing Rottin Wood's daily task Lucky Loop, by giving 7 fake rabbit's feet to Rottin Wood.",
+    "link": "https://tibia.fandom.com/wiki/Bunny_Slipped",
+    "version": "8.70"
+  },
+  {
+    "name": "Guinea Pig",
+    "id": 172,
+    "secret": false,
+    "grade": 1,
+    "points": 2,
+    "description": "True scientists know their equipment. Testing new inventions is essential daily work for any hard working researcher. You showed no fear and took all the new equipment from Spectulus and Sinclair for a spin.",
+    "spoiler": "Obtainable by making Research and Development Quest mission 2.",
+    "link": "https://tibia.fandom.com/wiki/Guinea_Pig",
+    "version": "8.70"
+  },
+  {
+    "name": "Merry Adventures",
+    "id": 173,
+    "secret": false,
+    "grade": 1, 
+    "points": 2,
+    "description": "You went into the forest, met Rottin Wood and the Married Men and helped them out in their camp. Oh, and don't worry about those merchants. They won't dare mentioning the strangely large sums of gold they actually possessed which are missing now.",
+    "spoiler": "Obtainable by completing the Rottin Wood and the Married Men Quest.",
+    "link": "https://tibia.fandom.com/wiki/Merry_Adventures",
+    "version": "8.70"
+  },
+  {
+    "name": "Afraid of no Ghost!",
+    "id": 174,
+    "secret": false,
+    "grade": 1,
+    "points": 2,
+    "description": "You passed their test and helped the Spirithunters testing equipment, researching the supernatural and catching ghosts - it's you they're gonna call.",
+    "spoiler": "Obtainable by completing the Spirithunters Quest.",
+    "link": "https://tibia.fandom.com/wiki/Afraid_of_no_Ghost!",
+    "version": "8.70"
+  },
+  {
+    "name": "Extreme Degustation",
+    "id": 175,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Almost all the plants you tested for Chartan in Zao where inedible - you tasted them all, yet you're still standing! You should really get some fresh air now, though.",
+    "spoiler": "Obtainable by making the Daily Task of Children of the Revolution Quest Collect.",
+    "link": "https://tibia.fandom.com/wiki/Extreme_Degustation",
+    "version": "8.70"
+  },
+  {
+    "name": "Spectral Traveller",
+    "id": 180,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "You have sailed the nether seas with the Ghost Captain several times. The dangers of the nether have become familiar to you and unexperienced travelers turn to you for advice.",
+    "spoiler": "Obtainable by finishing 5 journeys in A Pirate's Death to Me.",
+    "link": "https://tibia.fandom.com/wiki/Spectral_Traveller",
+    "version": "8.70"
+  },
+  {
+    "name": "Banebringers' Bane",
+    "id": 185,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "You sacrificed a lot of ingredients to create the protective brew of the witches and played a significant part in the efforts to repel the dreaded banebringers. The drawback is that even the banebringers may take notice of you ...",
+    "spoiler": "Obtainable by throwing 50 ingredients into the witches cauldron during the Bewitched event.",
+    "link": "https://tibia.fandom.com/wiki/Banebringers%27_Bane",
+    "version": "8.70"
+  },
+  {
+    "name": "Petrologist",
+    "id": 190,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Stones have always fascinated you. So has the chance of finding something really precious inside one of them. Statistically you should've discovered a few nice treasures by now. But then again, most statistics are overriden by Mother Disfortune.",
+    "spoiler": "Using pick on 100 Shiny stones.",
+    "link": "https://tibia.fandom.com/wiki/Petrologist",
+    "version": "8.70"
+  },
+  {
+    "name": "Hidden Powers",
+    "id": 191,
+    "secret": false,
+    "grade": 1,
+    "points": 2,
+    "description": "You've discovered the Ancients' hidden powers - from now on, they will aid you in your adventures.",
+    "spoiler": "Obtainable by charging a Helmet of the Ancients with a small ruby.",
+    "link": "https://tibia.fandom.com/wiki/Hidden_Powers",
+    "version": "8.70"
+  },
+  {
+    "name": "Smart Thinking",
+    "id": 195,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Smart you indeed. The gods almost gave up hope that anyone would ever figure THAT one out. They smile on you proudly now.",
+    "spoiler": "",
+    "link": "https://tibia.fandom.com/wiki/Smart_Thinking",
+    "version": "8.70"
+  },
+  {
+    "name": "Safely Stored Away",
+    "id": 196,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Don't worry, no one will be able to take it from you. Probably.",
+    "spoiler": "Obtainable by steping on tile next to depot 1000 times.",
+    "link": "https://tibia.fandom.com/wiki/Safely_Stored_Away",
+    "version": "8.70"
+  },
+  {
+    "name": "Snowbunny",
+    "id": 199,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Hopping, hopping through the snow - that's the funnest way to go! Making footprints in a flurry - it's more fun the more you hurry! Licking icicles all day - Winter, never go away!",
+    "spoiler": "Obtainable by changing 10.000 tiles of Snow into tiles of Snow (Footsteps) (Someone must have walked here recently).",
+    "link": "https://tibia.fandom.com/wiki/Snowbunny",
+    "version": "8.70"
+  },
+  {
+    "name": "Dark Voodoo Priest",
+    "id": 200,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Sinister curses, evil magic - you don't shy away from punishing others by questionable means. Someone just gave you a strange look - now where's that needle again?",
+    "spoiler": "Obtainable by using dworc Voodoo Doll on someone till bloodhit.",
+    "link": "https://tibia.fandom.com/wiki/Dark_Voodoo_Priest",
+    "version": "8.70"
+  },
+  {
+    "name": "Nomad Soul",
+    "id": 201,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "Home is where your current favourite hunting ground is, and though you might hold certain places more dear than others you never feel attached enough to really stay in one city for long. Pack all your stuff - it's time to move on again.",
+    "spoiler": "Obtainable by becoming a citizen of Ab'Dendriel, Ankrahmun, Carlin, Darashia, Edron, Farmine, Kazordoon, Liberty Bay, Port Hope, Svargrond, Thais, Venore, and Yalahar.",
+    "link": "https://tibia.fandom.com/wiki/Nomad_Soul",
+    "version": "8.70"
+  },
+  {
+    "name": "Truth Be Told",
+    "id": 202,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "You told Jack the truth by explaining you and Spectulus made a mistake when trying to convince him of being a completely different person.",
+    "spoiler": "Obtainable by telling truth to Jack after finishing Jack to the Future Quest.",
+    "link": "https://tibia.fandom.com/wiki/Truth_Be_Told",
+    "version": "8.70"
+  },
+  {
+    "name": "You Don't Know Jack",
+    "id": 203,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "You did not tell Jack the truth about the mistake you and Spectulus made when trying to convince him about being a completely different person. He will live in doubt until the end of his existence.",
+    "spoiler": "Obtainable by lying to Jack after finishing Jack to the Future Quest.",
+    "link": "https://tibia.fandom.com/wiki/You_Don%27t_Know_Jack",
+    "version": "8.70"
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 206,
+    "secret": true,
+    "grade": 1,
+    "points": 2,
+    "description": "You have mastered Kuriks challenge in all possible shapes.",
+    "spoiler": "Obtainable by getting trough teleport changed into every possible (8) forms during Last Creep Standing Event not necessarily during one try.",
+    "link": "https://tibia.fandom.com/wiki/Master_Shapeshifter",
+    "version": "8.70"
+  }
+]

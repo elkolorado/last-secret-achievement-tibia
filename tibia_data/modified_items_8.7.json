@@ -1,0 +1,5461 @@
+[
+  {
+    "item_id": 476,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "minimap_color",
+        210
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        6355
+      ]
+    },
+    "asset_name": "an open trapdoor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 908,
+    "flags": [
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        6471
+      ]
+    },
+    "asset_name": "a shapeshifter ring",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 3152,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "usable2",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36174
+      ]
+    },
+    "asset_name": "an intense healing rune",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 3160,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "usable2",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          1,
+          215
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36175
+      ]
+    },
+    "asset_name": "an ultimate healing rune",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 3673,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        3090
+      ]
+    },
+    "asset_name": "an orange star",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 3674,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        1569
+      ]
+    },
+    "asset_name": "a goat grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4037,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        29315
+      ]
+    },
+    "asset_name": "remains of a water elemental",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4049,
+    "flags": [
+      [
+        "usable2",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          3,
+          24
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32162
+      ]
+    },
+    "asset_name": "a magical measurement device",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4050,
+    "flags": [
+      [
+        "usable2",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 15,
+      "sprite_ids": [
+        32164,
+        32165,
+        32166,
+        32167,
+        32163,
+        32167,
+        32166,
+        32165,
+        32164,
+        32164,
+        32164,
+        32164,
+        32164,
+        32164,
+        32164
+      ]
+    },
+    "asset_name": "a spirit cage",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4051,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "unknown_18",
+        [
+          8,
+          8
+        ]
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        5830
+      ]
+    },
+    "asset_name": "a telescope",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4054,
+    "flags": [
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        5805
+      ]
+    },
+    "asset_name": "a red cushioned chair",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4055,
+    "flags": [
+      [
+        "blocking",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        4601,
+        4600,
+        4599,
+        4598
+      ]
+    },
+    "asset_name": "a large amphora",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4056,
+    "flags": [
+      [
+        "blocking",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        6164
+      ]
+    },
+    "asset_name": "a globe",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4059,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        5818
+      ]
+    },
+    "asset_name": "a rocking horse",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4060,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        8210,
+        8209,
+        8208,
+        8207
+      ]
+    },
+    "asset_name": "a broken lizard statue",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4061,
+    "flags": [
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          4,
+          35
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 3,
+      "sprite_ids": [
+        32711,
+        32712,
+        32713
+      ]
+    },
+    "asset_name": "a stone of wisdom",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4065,
+    "flags": [
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          3,
+          24
+        ]
+      ],
+      [
+        "unknown_18",
+        [
+          8,
+          8
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32710
+      ]
+    },
+    "asset_name": "a statue of Devovorga",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4073,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          3,
+          29
+        ]
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32952,
+        32976,
+        33732,
+        33731
+      ]
+    },
+    "asset_name": "a treasure chest",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4077,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          3,
+          29
+        ]
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        33734,
+        34202,
+        34204,
+        34203
+      ]
+    },
+    "asset_name": "a treasure chest",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4100,
+    "flags": [
+      [
+        "readable",
+        200
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        35803
+      ]
+    },
+    "asset_name": "a gamemaster doll",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4115,
+    "flags": [
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          3,
+          186
+        ]
+      ],
+      [
+        "unknown_18",
+        [
+          4,
+          8
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 3,
+      "sprite_ids": [
+        34205,
+        35798,
+        35799
+      ]
+    },
+    "asset_name": "a phoenix statue",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4124,
+    "flags": [
+      [
+        "pickupable",
+        null
+      ],
+      [
+        "light_info",
+        [
+          0,
+          186
+        ]
+      ],
+      [
+        "unknown_18",
+        [
+          4,
+          8
+        ]
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 3,
+      "sprite_ids": [
+        34205,
+        35798,
+        35799
+      ]
+    },
+    "asset_name": "a phoenix statue",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4140,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "wall_type",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        35999,
+        36001,
+        35804,
+        36000
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4144,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "action_possible",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36006,
+        36005,
+        36008,
+        36007
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 4174,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        4091
+      ]
+    },
+    "asset_name": "a dead rabbit",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 5907,
+    "flags": [
+      [
+        "usable2",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        4485
+      ]
+    },
+    "asset_name": "a slingshot",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 7439,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        11778
+      ]
+    },
+    "asset_name": "a berserk potion",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 7440,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        11780
+      ]
+    },
+    "asset_name": "a mastermind potion",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 7443,
+    "flags": [
+      [
+        "stackable",
+        null
+      ],
+      [
+        "pickupable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        11793
+      ]
+    },
+    "asset_name": "a bullseye potion",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 9141,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        17775,
+        17776
+      ]
+    },
+    "asset_name": "wooden planks",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 9582,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        29315
+      ]
+    },
+    "asset_name": "remains of a water elemental",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 9583,
+    "flags": [
+      [
+        "container",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        29396
+      ]
+    },
+    "asset_name": "remains of a water elemental",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10382,
+    "flags": [
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32151
+      ]
+    },
+    "asset_name": "a dead eternal guardian",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10588,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36009,
+        36011,
+        36012,
+        36010
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10589,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36006,
+        36005,
+        36008,
+        36007
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10590,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36013,
+        36016,
+        36014,
+        36015
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10591,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        35999,
+        36001,
+        35804,
+        36000
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10744,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "wall_type",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36013,
+        36016,
+        36014,
+        36015
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10746,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        35999,
+        36001,
+        35804,
+        36000
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10770,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "action_possible",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36013,
+        36016,
+        36014,
+        36015
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10803,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36417,
+        0,
+        36419,
+        36418
+      ]
+    },
+    "asset_name": "branch",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10804,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36420,
+        36421
+      ]
+    },
+    "asset_name": "branch",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10846,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36006,
+        36005,
+        36008,
+        36007
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 10984,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36013,
+        36016,
+        36014,
+        36015
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11006,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36035,
+        36037,
+        36034,
+        36036
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11009,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36030,
+        36032,
+        36031,
+        36033
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11014,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36038,
+        36039,
+        36012,
+        36010
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11015,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36088,
+        36094,
+        36136,
+        36137
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11049,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36138,
+        36140,
+        36139,
+        36141
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11067,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36143,
+        0,
+        36142,
+        36144
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11068,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36145,
+        36146,
+        36147,
+        36148
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11157,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36149,
+        36151,
+        0,
+        36150
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11209,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36152,
+        36155,
+        36154,
+        36153
+      ]
+    },
+    "asset_name": "a timber",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11310,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36156,
+        36157,
+        36136,
+        36137
+      ]
+    },
+    "asset_name": "a timber",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11330,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36162,
+        36165,
+        36163,
+        36164
+      ]
+    },
+    "asset_name": "a timber archway",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11332,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36158,
+        36161,
+        36160,
+        36159
+      ]
+    },
+    "asset_name": "a timber archway",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11335,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36017,
+        36018,
+        36021,
+        36019
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11346,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36022,
+        36003,
+        36023,
+        36002
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11363,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36024,
+        36025
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11704,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36026
+      ]
+    },
+    "asset_name": "a timber",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11705,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ],
+      [
+        "floor_change",
+        80
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        45700,
+        45701,
+        45703,
+        45702
+      ]
+    },
+    "asset_name": "a closed door",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11706,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36027,
+        36028
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11707,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ],
+      [
+        "minimap_color",
+        210
+      ],
+      [
+        "floor_change",
+        82
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36183,
+        36182,
+        36184,
+        36185
+      ]
+    },
+    "asset_name": "stairs",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11708,
+    "flags": [
+      [
+        "walk_through_arch",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "floor_change",
+        80
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        45696,
+        45699,
+        45697,
+        45698
+      ]
+    },
+    "asset_name": "an open door",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11709,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ],
+      [
+        "minimap_color",
+        210
+      ],
+      [
+        "floor_change",
+        82
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36188,
+        36189,
+        36187,
+        36186
+      ]
+    },
+    "asset_name": "stairs",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11710,
+    "flags": [
+      [
+        "walk_through",
+        null
+      ],
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36029,
+        36028,
+        36025,
+        0
+      ]
+    },
+    "asset_name": "a timber wall",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11711,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        30
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36190
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11712,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        24
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36191
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11713,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        24
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36192
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11714,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ],
+      [
+        "floor_change",
+        80
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        45696,
+        45699,
+        45697,
+        45698
+      ]
+    },
+    "asset_name": "a closed door",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11715,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        30
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36193
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11716,
+    "flags": [
+      [
+        "walk_through_arch",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "floor_change",
+        80
+      ],
+      [
+        "container",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        45700,
+        45701,
+        45703,
+        45702
+      ]
+    },
+    "asset_name": "an open door",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11717,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        24
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36194
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11718,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_96",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        30
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36195
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11719,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36196
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11720,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36197
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11721,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36198
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11722,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36199
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11723,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36200
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11724,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36201
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11725,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36202
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11726,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36203
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11727,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36204
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11728,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36205
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11729,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36206
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11730,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36207
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11731,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36208
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11732,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36209
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11733,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36210
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11734,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36211
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11735,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36212
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11736,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36213
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11737,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36214
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11738,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36215
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11739,
+    "flags": [
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "unknown_64",
+        null
+      ],
+      [
+        "more_always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "minimap_color",
+        121
+      ],
+      [
+        "no_floor_change",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36216
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11740,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36218
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11741,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36219
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11742,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36220
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11743,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36221
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11744,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36222
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11745,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36223
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11746,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36224
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11747,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36225
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11748,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36226
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11749,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36227
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11750,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36228
+      ]
+    },
+    "asset_name": "grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11751,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36229
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11752,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36230
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11753,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36231
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11754,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36232
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11755,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36233
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11756,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36234
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11757,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36235
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11758,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36236
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11759,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36237
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11760,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36238
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11761,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36386
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11762,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36387
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11763,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36388
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11764,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36392
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11765,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36389
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11766,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36390
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11767,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36391
+      ]
+    },
+    "asset_name": "timber floor",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11768,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 3,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36145,
+        36146,
+        36147,
+        36148,
+        36138,
+        36140,
+        36139,
+        36141,
+        36156,
+        36157,
+        36136,
+        36137
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11769,
+    "flags": [
+      [
+        "blocking",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "blocks_missile",
+        null
+      ],
+      [
+        "minimap_color",
+        186
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 2,
+      "blend_frames": 3,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36149,
+        36151,
+        36142,
+        36150,
+        36143,
+        36157,
+        36136,
+        36144,
+        36156,
+        0,
+        0,
+        36137
+      ]
+    },
+    "asset_name": "timbers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11770,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36393,
+        36395
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11771,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36396,
+        36394
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11772,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36397,
+        36398
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11773,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36399,
+        36400
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11774,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36401
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11775,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36402
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11776,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36403
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11777,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36404
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11778,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36405,
+        36408,
+        36408,
+        36405
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11779,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36406,
+        36407,
+        36407,
+        36406
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11780,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36409,
+        36410,
+        36410,
+        36409
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11781,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "new_flag_8_57_2",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36412,
+        36411,
+        36411,
+        36412
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11782,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36413,
+        36414,
+        36415,
+        36416
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11783,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36414,
+        36415,
+        36416,
+        36413
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11784,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36415,
+        36416,
+        36413,
+        36414
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11785,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 2,
+      "divy": 2,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36416,
+        36413,
+        36414,
+        36415
+      ]
+    },
+    "asset_name": "leaves",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11786,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36422
+      ]
+    },
+    "asset_name": "branch",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11787,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36425
+      ]
+    },
+    "asset_name": "branch",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11788,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36423,
+        36424
+      ]
+    },
+    "asset_name": "branch",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11789,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 2,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32784,
+        32785
+      ]
+    },
+    "asset_name": "deer antlers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11790,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32786,
+        32787
+      ]
+    },
+    "asset_name": "deer antlers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11791,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 2,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32789,
+        32788
+      ]
+    },
+    "asset_name": "deer antlers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11792,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        32790
+      ]
+    },
+    "asset_name": "deer antlers",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11793,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "draw_offset",
+        2
+      ],
+      [
+        "minimap_color",
+        30
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36426
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11794,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "draw_offset",
+        2
+      ],
+      [
+        "minimap_color",
+        30
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36427
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11795,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "draw_offset",
+        3
+      ],
+      [
+        "minimap_color",
+        30
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36428
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11796,
+    "flags": [
+      [
+        "always_on_top",
+        null
+      ],
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "draw_offset",
+        4
+      ],
+      [
+        "minimap_color",
+        30
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36429
+      ]
+    },
+    "asset_name": "lush grass",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11797,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36431
+      ]
+    },
+    "asset_name": "a timber table",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11798,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36433
+      ]
+    },
+    "asset_name": "a timber table",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11799,
+    "flags": [
+      [
+        "immoveable",
+        null
+      ],
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36434
+      ]
+    },
+    "asset_name": "a timber table",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11800,
+    "flags": [
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "unknown_14",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36436
+      ]
+    },
+    "asset_name": "a timber chair",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11801,
+    "flags": [
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "unknown_14",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36437
+      ]
+    },
+    "asset_name": "a timber chair",
+    "name": "Unknown"
+  },
+  {
+    "item_id": 11802,
+    "flags": [
+      [
+        "slight_obstacle",
+        null
+      ],
+      [
+        "unknown_14",
+        null
+      ],
+      [
+        "draw_offset",
+        8
+      ]
+    ],
+    "object_info": {
+      "width": 1,
+      "height": 1,
+      "blend_frames": 1,
+      "divx": 1,
+      "divy": 1,
+      "divz": 1,
+      "anim_len": 1,
+      "sprite_ids": [
+        36438
+      ]
+    },
+    "asset_name": "a timber chair",
+    "name": "Unknown"
+  }
+]
